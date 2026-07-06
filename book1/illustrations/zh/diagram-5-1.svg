@@ -1,0 +1,60 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">机器怎么"看"：由浅入深，一层一层</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 5-1 ｜ 每一层的本事，都是训练循环磨出来的</text>
+
+  <!-- 照片 -->
+  <rect x="60" y="150" width="150" height="150" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <circle cx="135" cy="232" r="36" fill="#F2A65A"/>
+  <path d="M 109 212 L 102 186 L 126 200 Z M 161 212 L 168 186 L 144 200 Z" fill="#F2A65A"/>
+  <circle cx="123" cy="226" r="3.4" fill="#3D3229"/>
+  <circle cx="147" cy="226" r="3.4" fill="#3D3229"/>
+  <text x="135" y="330" text-anchor="middle" font-size="14" fill="#8A7F72">一张照片</text>
+
+  <path d="M 222 225 h 34" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="264,225 249,217 249,233" fill="#C9BCA6"/>
+
+  <!-- 像素格 -->
+  <g transform="translate(285,150)">
+    <rect width="150" height="150" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+    <g>
+      <rect x="18" y="18" width="26" height="26" fill="#F2A65A"/><rect x="46" y="18" width="26" height="26" fill="#F7C64B"/><rect x="74" y="18" width="26" height="26" fill="#F2A65A"/><rect x="102" y="18" width="26" height="26" fill="#EADFCC"/>
+      <rect x="18" y="46" width="26" height="26" fill="#E8905A"/><rect x="46" y="46" width="26" height="26" fill="#F2A65A"/><rect x="74" y="46" width="26" height="26" fill="#C77E3E"/><rect x="102" y="46" width="26" height="26" fill="#F2A65A"/>
+      <rect x="18" y="74" width="26" height="26" fill="#F7C64B"/><rect x="46" y="74" width="26" height="26" fill="#E8905A"/><rect x="74" y="74" width="26" height="26" fill="#F2A65A"/><rect x="102" y="74" width="26" height="26" fill="#E8905A"/>
+      <rect x="18" y="102" width="26" height="26" fill="#EADFCC"/><rect x="46" y="102" width="26" height="26" fill="#F2A65A"/><rect x="74" y="102" width="26" height="26" fill="#F7C64B"/><rect x="102" y="102" width="26" height="26" fill="#C77E3E"/>
+    </g>
+    <text x="75" y="180" text-anchor="middle" font-size="14" fill="#8A7F72">在它眼里：数字格子</text>
+  </g>
+
+  <path d="M 447 225 h 34" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="489,225 474,217 474,233" fill="#C9BCA6"/>
+
+  <!-- 三层 -->
+  <g transform="translate(510,110)">
+    <rect width="390" height="86" rx="14" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <text x="20" y="38" font-size="15" font-weight="700" fill="#4A90D9">第一层 · 找线条</text>
+    <text x="20" y="64" font-size="12.5" fill="#8A7F72">横线、弧线、颜色的交界</text>
+    <path d="M 250 26 h 44 M 250 46 l 34 22 M 316 24 q 26 12 4 44" stroke="#4A90D9" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(510,208)">
+    <rect width="390" height="86" rx="14" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <text x="20" y="38" font-size="15" font-weight="700" fill="#F59E0B">第二层 · 认零件</text>
+    <text x="20" y="64" font-size="12.5" fill="#8A7F72">尖耳朵、圆眼睛、细胡须</text>
+    <path d="M 252 62 L 264 24 L 288 52 Z" fill="#F2A65A"/>
+    <circle cx="318" cy="44" r="12" fill="#3D3229"/>
+    <path d="M 344 36 h 34 M 344 50 h 30" stroke="#C77E3E" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(510,306)">
+    <rect width="390" height="86" rx="14" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <text x="20" y="38" font-size="15" font-weight="700" fill="#5FA968">第三层 · 拼整体</text>
+    <text x="20" y="64" font-size="12.5" fill="#8A7F72">零件凑齐："是猫"概率 98%</text>
+    <circle cx="300" cy="46" r="24" fill="#F2A65A"/>
+    <path d="M 282 32 L 277 14 L 293 24 Z M 318 32 L 323 14 L 307 24 Z" fill="#F2A65A"/>
+    <circle cx="292" cy="42" r="2.6" fill="#3D3229"/>
+    <circle cx="308" cy="42" r="2.6" fill="#3D3229"/>
+    <circle cx="356" cy="42" r="13" fill="#5FA968"/>
+    <path d="M 350 42 l 4 5 l 8 -10" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="480" y="466" text-anchor="middle" font-size="13.5" fill="#9A8F80">人脸解锁、医学影像助手、自动驾驶的眼睛，用的都是这套分层功夫</text>
+</svg>

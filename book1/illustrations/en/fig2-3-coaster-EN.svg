@@ -1,0 +1,66 @@
+<svg viewBox="0 0 960 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="520" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Seventy Years of AI: A Roller-Coaster Curve</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 2-3 | Two booms, two winters — then all three fuels ignite</text>
+
+  <!-- 寒冬区域 -->
+  <rect x="262" y="150" width="86" height="280" rx="14" fill="#BFDCF0" opacity="0.32"/>
+  <rect x="476" y="150" width="84" height="280" rx="14" fill="#BFDCF0" opacity="0.32"/>
+  <g stroke="#7FB4D9" stroke-width="2.5" stroke-linecap="round">
+    <path d="M 305 172 v 20 M 296 177 l 18 10 M 314 177 l -18 10"/>
+    <path d="M 518 172 v 20 M 509 177 l 18 10 M 527 177 l -18 10"/>
+  </g>
+
+  <!-- 基线 -->
+  <line x1="60" y1="430" x2="900" y2="430" stroke="#E6DCC9" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 过山车曲线 -->
+  <path d="M 60 348
+           C 120 345 155 210 205 202
+           C 250 196 262 310 305 348
+           C 340 378 380 250 425 235
+           C 455 225 470 320 515 352
+           C 545 373 585 330 625 298
+           C 665 266 690 240 725 215
+           C 760 190 790 165 830 140
+           C 855 123 875 115 893 108"
+        stroke="#F59E0B" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+  <!-- 里程碑 -->
+  <circle cx="75" cy="345" r="6" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+  <text x="62" y="380" font-size="14" font-weight="700" fill="#3D3229">1950</text>
+  <text x="62" y="398" font-size="12.5" fill="#8A7F72">Turing's question</text>
+
+  <circle cx="205" cy="203" r="6" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+  <text x="205" y="166" text-anchor="middle" font-size="14" font-weight="700" fill="#3D3229">1956</text>
+  <text x="205" y="184" text-anchor="middle" font-size="12.5" fill="#8A7F72">Dartmouth: “AI” gets a name</text>
+
+  <circle cx="305" cy="348" r="6" fill="#FFFFFF" stroke="#7FB4D9" stroke-width="4"/>
+  <text x="305" y="384" text-anchor="middle" font-size="14" font-weight="700" fill="#3D3229">1970s</text>
+  <text x="305" y="402" text-anchor="middle" font-size="12.5" fill="#8A7F72">First AI winter</text>
+
+  <circle cx="425" cy="236" r="6" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+  <text x="425" y="199" text-anchor="middle" font-size="14" font-weight="700" fill="#3D3229">1980s</text>
+  <text x="425" y="217" text-anchor="middle" font-size="12.5" fill="#8A7F72">Expert-system revival</text>
+
+  <circle cx="518" cy="352" r="6" fill="#FFFFFF" stroke="#7FB4D9" stroke-width="4"/>
+  <text x="518" y="388" text-anchor="middle" font-size="14" font-weight="700" fill="#3D3229">Late 1980s</text>
+  <text x="518" y="406" text-anchor="middle" font-size="12.5" fill="#8A7F72">Second AI winter</text>
+
+  <circle cx="640" cy="288" r="6" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+  <text x="652" y="316" font-size="14" font-weight="700" fill="#3D3229">1997</text>
+  <text x="652" y="334" font-size="12.5" fill="#8A7F72">Deep Blue beats chess champion</text>
+
+  <circle cx="735" cy="208" r="6" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+  <text x="723" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#3D3229">2012</text>
+  <text x="723" y="194" text-anchor="middle" font-size="12.5" fill="#8A7F72">Deep learning breaks through</text>
+
+  <circle cx="830" cy="140" r="6" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+  <text x="836" y="166" font-size="14" font-weight="700" fill="#3D3229">2016</text>
+  <text x="836" y="184" font-size="12.5" fill="#8A7F72">AlphaGo</text>
+
+  <path d="M 893 108 l 6 -14 l 5 14 l 14 4 l -12 7 l -2 15 l -10 -11 l -15 2 l 9 -12 z" fill="#F59E0B"/>
+  <text x="898" y="86" text-anchor="end" font-size="14" font-weight="700" fill="#E8734A">2022 · The ChatGPT moment</text>
+
+  <text x="480" y="490" text-anchor="middle" font-size="13.5" fill="#9A8F80">Hype rises and falls, but capability quietly compounds — read this curve and the next frenzy won't sweep you away</text>
+</svg>

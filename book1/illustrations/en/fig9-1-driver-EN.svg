@@ -1,0 +1,59 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="520" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">The Driver's Seat: Don't Give It Up</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 9-1 | It may write for you; it must not think for you</text>
+
+  <!-- 挡风玻璃 -->
+  <rect x="100" y="96" width="700" height="222" rx="26" fill="#DFF0FB" stroke="#C9BCA6" stroke-width="4"/>
+  <circle cx="620" cy="170" r="44" fill="#F7C64B"/>
+  <circle cx="620" cy="170" r="62" fill="#FDEBC0" opacity="0.45"/>
+  <path d="M 330 318 L 430 130 L 470 130 L 570 318 Z" fill="#EADFCC"/>
+  <path d="M 448 300 v -24 M 449 258 v -22 M 450 220 v -20 M 450 186 v -16" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 130 300 Q 260 260 330 318 M 770 300 Q 660 260 570 318" stroke="#EAE0CE" stroke-width="0" fill="none"/>
+
+  <!-- 仪表台 -->
+  <rect x="80" y="318" width="740" height="46" rx="16" fill="#D9A05B"/>
+
+  <!-- 小悠：主驾驶 -->
+  <g transform="translate(280,330)">
+    <circle cx="0" cy="-64" r="38" fill="#2E2A28"/>
+    <path d="M -38 -50 a 38 38 0 0 1 76 0" fill="#2E2A28"/>
+    <rect x="-44" y="-34" width="88" height="44" rx="20" fill="#F7C64B"/>
+    <circle r="62" fill="none" stroke="#3D3229" stroke-width="11" transform="translate(0,44)"/>
+    <circle cx="0" cy="44" r="12" fill="#3D3229"/>
+    <line x1="-10" y1="40" x2="-52" y2="14" stroke="#3D3229" stroke-width="8"/>
+    <line x1="10" y1="40" x2="52" y2="14" stroke="#3D3229" stroke-width="8"/>
+    <circle cx="-54" cy="10" r="10" fill="#FFCFA8"/>
+    <circle cx="54" cy="10" r="10" fill="#FFCFA8"/>
+  </g>
+
+  <!-- 泡泡：副驾驶举清单 -->
+  <g transform="translate(620,332)">
+    <ellipse rx="40" ry="36" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-4" rx="25" ry="18" fill="#CFE9F8"/>
+    <path d="M -14 -7 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 5 -7 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -5 4 q 5 4 10 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-36" y2="-50" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-55" r="5.5" fill="#F59E0B"/>
+    <g transform="translate(72,-24) rotate(6)">
+      <rect x="-30" y="-40" width="60" height="80" rx="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+      <circle cx="-16" cy="-22" r="5" fill="#5FA968"/><path d="M -19 -22 l 2 3 l 5 -6" stroke="#FFFFFF" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      <line x1="-6" y1="-22" x2="20" y2="-22" stroke="#DCD2C0" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="-16" cy="0" r="5" fill="#5FA968"/><path d="M -19 0 l 2 3 l 5 -6" stroke="#FFFFFF" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      <line x1="-6" y1="0" x2="16" y2="0" stroke="#DCD2C0" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="-16" cy="22" r="5" fill="#F59E0B"/>
+      <line x1="-6" y1="22" x2="20" y2="22" stroke="#DCD2C0" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <circle cx="42" cy="4" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <circle cx="-44" cy="8" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+  </g>
+
+  <!-- 标签 -->
+  <rect x="170" y="424" width="220" height="44" rx="22" fill="#FFF3D6" stroke="#F59E0B" stroke-width="2.5"/>
+  <text x="280" y="452" text-anchor="middle" font-size="13" font-weight="700" fill="#B45309">Driver: you — judge and decide</text>
+  <rect x="510" y="424" width="220" height="44" rx="22" fill="#EAF3FB" stroke="#4A90D9" stroke-width="2.5"/>
+  <text x="620" y="452" text-anchor="middle" font-size="13" font-weight="700" fill="#2C6E9E">Co-pilot: AI — advise and assist</text>
+
+  <text x="450" y="502" text-anchor="middle" font-size="13.5" fill="#9A8F80">Let it do the work, never the steering — wheel and brakes stay in your hands</text>
+</svg>

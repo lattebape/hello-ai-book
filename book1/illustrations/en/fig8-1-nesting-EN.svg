@@ -1,0 +1,30 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="520" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">The Word Family in One Picture</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 8-1 | Not siblings — nesting dolls</text>
+
+  <!-- 外层：人工智能 -->
+  <rect x="90" y="104" width="720" height="340" rx="22" fill="#EAF3FB" stroke="#4A90D9" stroke-width="3"/>
+  <text x="118" y="144" font-size="16" font-weight="700" fill="#4A90D9">Artificial Intelligence</text>
+  <text x="322" y="143" font-size="12.5" fill="#8A7F72">| everything that makes machines act smart (Ch. 1)</text>
+
+  <!-- 中层：机器学习 -->
+  <rect x="150" y="166" width="600" height="248" rx="18" fill="#FDF3DC" stroke="#F59E0B" stroke-width="3"/>
+  <text x="176" y="204" font-size="15" font-weight="700" fill="#B45309">Machine Learning</text>
+  <text x="316" y="203" font-size="12.5" fill="#8A7F72">| no rules — give examples, let it learn (Ch. 3)</text>
+
+  <!-- 内层：深度学习 -->
+  <rect x="210" y="224" width="480" height="160" rx="16" fill="#EAF4EB" stroke="#5FA968" stroke-width="3"/>
+  <text x="236" y="260" font-size="14" font-weight="700" fill="#3E7D4B">Deep Learning</text>
+  <text x="346" y="259" font-size="12.5" fill="#8A7F72">| layer by layer, shallow to deep (Ch. 5)</text>
+
+  <!-- 星标徽章：大语言模型 -->
+  <g transform="translate(450,330)">
+    <rect x="-150" y="-30" width="300" height="60" rx="30" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+    <path d="M -118 -12 l 7 -15 l 6 15 l 16 3 l -12 9 l -1 16 l -12 -10 l -15 3 l 8 -13 z" fill="#F59E0B"/>
+    <text x="24" y="-2" text-anchor="middle" font-size="16" font-weight="700" fill="#8B6FC0">Large Language Model</text>
+    <text x="24" y="19" text-anchor="middle" font-size="11.5" fill="#8A7F72">the word-chain champ from Chapter 4</text>
+  </g>
+
+  <text x="450" y="486" text-anchor="middle" font-size="13.5" fill="#9A8F80">When the news says "deep learning is a kind of machine learning," this is the picture</text>
+</svg>

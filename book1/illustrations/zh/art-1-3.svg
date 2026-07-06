@@ -1,0 +1,74 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+
+  <!-- 夜窗与月亮 -->
+  <rect x="70" y="55" width="175" height="135" rx="14" fill="#3E5375"/>
+  <circle cx="185" cy="105" r="24" fill="#FFF3D6"/>
+  <circle cx="175" cy="98" r="19" fill="#3E5375"/>
+  <circle cx="112" cy="90" r="3" fill="#FFF3D6"/>
+  <circle cx="135" cy="150" r="2.5" fill="#FFF3D6"/>
+  <circle cx="100" cy="160" r="2" fill="#FFF3D6"/>
+
+  <!-- 落地灯 -->
+  <ellipse cx="812" cy="292" rx="80" ry="56" fill="#FFE9BC" opacity="0.45"/>
+  <line x1="812" y1="252" x2="812" y2="448" stroke="#8A7F72" stroke-width="6"/>
+  <ellipse cx="812" cy="450" rx="34" ry="8" fill="#8A7F72"/>
+  <path d="M 770 252 L 854 252 L 838 200 L 786 200 Z" fill="#F59E0B"/>
+
+  <ellipse cx="470" cy="462" rx="360" ry="24" fill="#F1E7D6"/>
+
+  <!-- 沙发 -->
+  <rect x="250" y="268" width="420" height="92" rx="28" fill="#E8905A"/>
+  <rect x="250" y="332" width="420" height="70" rx="20" fill="#F2A65A"/>
+  <rect x="222" y="284" width="58" height="118" rx="26" fill="#E8905A"/>
+  <rect x="640" y="284" width="58" height="118" rx="26" fill="#E8905A"/>
+  <rect x="262" y="400" width="18" height="26" rx="6" fill="#C98F4E"/>
+  <rect x="640" y="400" width="18" height="26" rx="6" fill="#C98F4E"/>
+
+  <!-- 小悠：窝在沙发上刷手机 -->
+  <g transform="translate(470,352)">
+    <path d="M -6 -6 L 58 -6" stroke="#4C6FB0" stroke-width="19" stroke-linecap="round"/>
+    <path d="M 58 -6 L 58 30" stroke="#4C6FB0" stroke-width="17" stroke-linecap="round"/>
+    <ellipse cx="58" cy="40" rx="14" ry="7" fill="#3D3229"/>
+    <rect x="-30" y="-94" width="60" height="92" rx="24" fill="#F7C64B"/>
+    <path d="M -26 -62 L 4 -46" stroke="#F7C64B" stroke-width="13" stroke-linecap="round"/>
+    <path d="M 26 -62 L 16 -46" stroke="#F7C64B" stroke-width="13" stroke-linecap="round"/>
+    <ellipse cx="12" cy="-36" rx="30" ry="16" fill="#BFE0F5" opacity="0.5"/>
+    <g transform="translate(11,-46) rotate(-8)">
+      <rect x="-12" y="-21" width="24" height="42" rx="5" fill="#3D3229"/>
+      <rect x="-8" y="-16" width="16" height="32" rx="3" fill="#BFE0F5"/>
+    </g>
+    <circle cx="-2" cy="-44" r="6.5" fill="#FFCFA8"/>
+    <circle cx="22" cy="-44" r="6.5" fill="#FFCFA8"/>
+    <circle cy="-126" r="32" fill="#FFCFA8"/>
+    <path d="M -32 -126 a 32 32 0 0 1 64 0 l 0 7 q -8 -7 -15 -3 q -8 -8 -17 -2 q -9 -7 -17 2 q -7 -4 -15 4 z" fill="#2E2A28"/>
+    <circle cx="-11" cy="-116" r="2.8" fill="#2E2A28"/>
+    <circle cx="11" cy="-116" r="2.8" fill="#2E2A28"/>
+    <path d="M -7 -107 q 7 6 14 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-20" cy="-109" rx="4.5" ry="3.2" fill="#F7A98C" opacity="0.55"/>
+    <ellipse cx="20" cy="-109" rx="4.5" ry="3.2" fill="#F7A98C" opacity="0.55"/>
+  </g>
+
+  <!-- 泡泡：坐在左扶手上记小本子 -->
+  <g transform="translate(255,258)">
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <circle cx="-9" cy="-4" r="3" fill="#2C6E9E"/>
+    <circle cx="9" cy="-4" r="3" fill="#2C6E9E"/>
+    <path d="M -4 6 q 4 3 8 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <rect x="-98" y="-18" width="46" height="56" rx="7" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -82 -4 c -3 -6 -12 -2 -6 4 l 6 5 l 6 -5 c 6 -6 -3 -10 -6 -4 z" fill="#E8734A"/>
+    <circle cx="-75" cy="20" r="7" stroke="#8A7F72" stroke-width="2.2" fill="none"/>
+    <path d="M -81 15 l -3 -6 l 5 2 M -69 15 l 3 -6 l -5 2" stroke="#8A7F72" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <circle cx="-77" cy="19" r="1.2" fill="#8A7F72"/>
+    <circle cx="-72" cy="19" r="1.2" fill="#8A7F72"/>
+    <circle cx="-50" cy="10" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <g transform="translate(40,2) rotate(-30)">
+      <rect x="0" y="-4" width="26" height="8" rx="4" fill="#F59E0B"/>
+      <path d="M 26 -4 L 34 0 L 26 4 Z" fill="#3D3229"/>
+    </g>
+    <circle cx="42" cy="4" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+  </g>
+</svg>

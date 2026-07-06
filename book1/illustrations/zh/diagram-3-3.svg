@@ -1,0 +1,64 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">机器的三种学法</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 3-3 ｜ 有老师、没老师、给奖励</text>
+
+  <!-- 卡1：跟老师学 -->
+  <rect x="60" y="104" width="256" height="330" rx="20" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <g transform="translate(188,208)">
+    <rect x="-46" y="-52" width="92" height="66" rx="9" fill="#EAF3FB" stroke="#4A90D9" stroke-width="2.5"/>
+    <circle cy="-22" r="16" fill="#F2A65A"/>
+    <path d="M -12 -33 L -17 -46 L -5 -40 Z M 12 -33 L 17 -46 L 5 -40 Z" fill="#F2A65A"/>
+    <circle cx="40" cy="16" r="16" fill="#5FA968"/>
+    <path d="M 33 16 l 5 6 l 10 -12" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="188" y="296" text-anchor="middle" font-size="18" font-weight="700" fill="#4A90D9">跟老师学</text>
+  <text x="188" y="322" text-anchor="middle" font-size="13" fill="#9A8F80">（监督学习）</text>
+  <text x="188" y="366" text-anchor="middle" font-size="13.5" fill="#8A7F72">每道题都配着</text>
+  <text x="188" y="390" text-anchor="middle" font-size="13.5" fill="#8A7F72">标准答案</text>
+
+  <!-- 卡2：自己归堆 -->
+  <rect x="352" y="104" width="256" height="330" rx="20" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <g transform="translate(480,206)">
+    <circle cx="-38" cy="-30" r="10" fill="#F59E0B"/>
+    <circle cx="-56" cy="-8" r="10" fill="#F59E0B"/>
+    <circle cx="-32" cy="-2" r="10" fill="#F59E0B"/>
+    <circle cx="-44" cy="-16" r="26" fill="none" stroke="#E8905A" stroke-width="2.5" stroke-dasharray="6 6"/>
+    <circle cx="42" cy="8" r="10" fill="#4A90D9"/>
+    <circle cx="60" cy="28" r="10" fill="#4A90D9"/>
+    <circle cx="36" cy="34" r="10" fill="#4A90D9"/>
+    <circle cx="46" cy="22" r="27" fill="none" stroke="#4A90D9" stroke-width="2.5" stroke-dasharray="6 6"/>
+    <circle cx="10" cy="-38" r="10" fill="#F59E0B" opacity="0.55"/>
+    <path d="M 4 -30 Q -14 -24 -26 -20" stroke="#C9BCA6" stroke-width="2.5" stroke-dasharray="5 5" fill="none"/>
+    <polygon points="-30,-19 -18,-17 -23,-27" fill="#C9BCA6"/>
+  </g>
+  <text x="480" y="296" text-anchor="middle" font-size="18" font-weight="700" fill="#E8905A">自己归堆</text>
+  <text x="480" y="322" text-anchor="middle" font-size="13" fill="#9A8F80">（无监督学习）</text>
+  <text x="480" y="366" text-anchor="middle" font-size="13.5" fill="#8A7F72">没有答案，</text>
+  <text x="480" y="390" text-anchor="middle" font-size="13.5" fill="#8A7F72">把相似的归到一起</text>
+
+  <!-- 卡3：试错得分 -->
+  <rect x="644" y="104" width="256" height="330" rx="20" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <g transform="translate(772,208)">
+    <circle cx="-24" cy="-8" r="26" fill="#E0A868"/>
+    <path d="M -44 -26 L -50 -48 L -30 -36 Z M -4 -26 L 2 -48 L -18 -36 Z" fill="#E0A868"/>
+    <ellipse cx="-24" cy="0" rx="15" ry="11" fill="#F7EBD9"/>
+    <circle cx="-33" cy="-12" r="3" fill="#3D3229"/>
+    <circle cx="-15" cy="-12" r="3" fill="#3D3229"/>
+    <ellipse cx="-24" cy="-4" rx="3.6" ry="3" fill="#3D3229"/>
+    <path d="M 26 -34 l 6 -13 l 5 13 l 14 3 l -11 8 l -1 14 l -10 -9 l -13 3 l 7 -12 z" fill="#F59E0B"/>
+    <g transform="translate(38,22) rotate(-18)">
+      <rect x="-16" y="-6" width="32" height="12" rx="6" fill="#F7EBD9" stroke="#D9A05B" stroke-width="2.5"/>
+      <circle cx="-16" cy="-5" r="6" fill="#F7EBD9" stroke="#D9A05B" stroke-width="2.5"/>
+      <circle cx="-16" cy="5" r="6" fill="#F7EBD9" stroke="#D9A05B" stroke-width="2.5"/>
+      <circle cx="16" cy="-5" r="6" fill="#F7EBD9" stroke="#D9A05B" stroke-width="2.5"/>
+      <circle cx="16" cy="5" r="6" fill="#F7EBD9" stroke="#D9A05B" stroke-width="2.5"/>
+    </g>
+  </g>
+  <text x="772" y="296" text-anchor="middle" font-size="18" font-weight="700" fill="#5FA968">试错得分</text>
+  <text x="772" y="322" text-anchor="middle" font-size="13" fill="#9A8F80">（强化学习）</text>
+  <text x="772" y="366" text-anchor="middle" font-size="13.5" fill="#8A7F72">做对了给奖励，</text>
+  <text x="772" y="390" text-anchor="middle" font-size="13.5" fill="#8A7F72">慢慢摸出门道</text>
+
+  <text x="480" y="472" text-anchor="middle" font-size="13.5" fill="#9A8F80">认猫用第一招，顾客分群用第二招，AlphaGo 下棋用第三招</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="480" fill="#FAF6EF"/>
+  <ellipse cx="450" cy="442" rx="360" ry="24" fill="#F1E7D6"/>
+
+  <!-- 画架与画：猫爪有六趾 -->
+  <line x1="330" y1="130" x2="286" y2="436" stroke="#C98F4E" stroke-width="8" stroke-linecap="round"/>
+  <line x1="470" y1="130" x2="514" y2="436" stroke="#C98F4E" stroke-width="8" stroke-linecap="round"/>
+  <rect x="298" y="116" width="204" height="230" rx="6" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="4"/>
+  <circle cx="400" cy="196" r="42" fill="#F2A65A"/>
+  <path d="M 370 172 L 362 142 L 388 158 Z M 430 172 L 438 142 L 412 158 Z" fill="#F2A65A"/>
+  <circle cx="386" cy="190" r="4" fill="#3D3229"/>
+  <circle cx="414" cy="190" r="4" fill="#3D3229"/>
+  <path d="M 400 204 l -4 -6 h 8 z" fill="#E8734A"/>
+  <ellipse cx="400" cy="286" rx="26" ry="34" fill="#F2A65A"/>
+  <path d="M 384 316 q -3 -14 -10 -16 M 392 320 q -2 -14 -6 -18 M 398 322 q 0 -14 0 -18 M 404 322 q 2 -14 4 -18 M 410 320 q 4 -13 8 -16 M 416 316 q 6 -11 12 -12" stroke="#C77E3E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="452" cy="308" r="15" fill="#E8734A"/>
+  <path d="M 446 302 L 458 314 M 458 302 L 446 314" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round"/>
+
+  <!-- 小悠：指着画笑 -->
+  <g transform="translate(160,420)">
+    <ellipse cx="-11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <ellipse cx="11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <rect x="-18" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="3" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="-28" y="-138" width="56" height="84" rx="24" fill="#F7C64B"/>
+    <rect x="-42" y="-130" width="14" height="54" rx="7" fill="#F7C64B"/>
+    <circle cx="-35" cy="-72" r="7" fill="#FFCFA8"/>
+    <path d="M 28 -118 L 78 -132" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="84" cy="-134" r="7.5" fill="#FFCFA8"/>
+    <circle cy="-172" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -172 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <path d="M -16 -164 q 5 -5 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M 7 -164 q 5 -5 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M -9 -154 q 9 10 18 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.6"/>
+    <ellipse cx="22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.6"/>
+  </g>
+
+  <!-- 泡泡：不好意思挠头 -->
+  <g transform="translate(690,330)">
+    <ellipse cx="0" cy="130" rx="42" ry="8" fill="#E4DACA" opacity="0.8"/>
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <path d="M -13 -7 q 4.5 5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 4 -7 q 4.5 5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -5 6 q 5 3 10 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <circle cx="-34" cy="-38" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -46 -52 q -6 8 -2 16" stroke="#C9BCA6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <circle cx="42" cy="8" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M 40 -56 c 0 -7 8 -14 8 -4 c 0 6 -8 10 -8 4 z" fill="#7FC3E8"/>
+  </g>
+</svg>

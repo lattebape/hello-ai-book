@@ -1,0 +1,60 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">How a Machine "Sees": Layer by Layer</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 5-1 | Every layer's skill was ground out by the training loop</text>
+
+  <!-- 照片 -->
+  <rect x="60" y="150" width="150" height="150" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <circle cx="135" cy="232" r="36" fill="#F2A65A"/>
+  <path d="M 109 212 L 102 186 L 126 200 Z M 161 212 L 168 186 L 144 200 Z" fill="#F2A65A"/>
+  <circle cx="123" cy="226" r="3.4" fill="#3D3229"/>
+  <circle cx="147" cy="226" r="3.4" fill="#3D3229"/>
+  <text x="135" y="330" text-anchor="middle" font-size="14" fill="#8A7F72">A photo</text>
+
+  <path d="M 222 225 h 34" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="264,225 249,217 249,233" fill="#C9BCA6"/>
+
+  <!-- 像素格 -->
+  <g transform="translate(285,150)">
+    <rect width="150" height="150" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+    <g>
+      <rect x="18" y="18" width="26" height="26" fill="#F2A65A"/><rect x="46" y="18" width="26" height="26" fill="#F7C64B"/><rect x="74" y="18" width="26" height="26" fill="#F2A65A"/><rect x="102" y="18" width="26" height="26" fill="#EADFCC"/>
+      <rect x="18" y="46" width="26" height="26" fill="#E8905A"/><rect x="46" y="46" width="26" height="26" fill="#F2A65A"/><rect x="74" y="46" width="26" height="26" fill="#C77E3E"/><rect x="102" y="46" width="26" height="26" fill="#F2A65A"/>
+      <rect x="18" y="74" width="26" height="26" fill="#F7C64B"/><rect x="46" y="74" width="26" height="26" fill="#E8905A"/><rect x="74" y="74" width="26" height="26" fill="#F2A65A"/><rect x="102" y="74" width="26" height="26" fill="#E8905A"/>
+      <rect x="18" y="102" width="26" height="26" fill="#EADFCC"/><rect x="46" y="102" width="26" height="26" fill="#F2A65A"/><rect x="74" y="102" width="26" height="26" fill="#F7C64B"/><rect x="102" y="102" width="26" height="26" fill="#C77E3E"/>
+    </g>
+    <text x="75" y="180" text-anchor="middle" font-size="14" fill="#8A7F72">To the machine: a number grid</text>
+  </g>
+
+  <path d="M 447 225 h 34" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="489,225 474,217 474,233" fill="#C9BCA6"/>
+
+  <!-- 三层 -->
+  <g transform="translate(510,110)">
+    <rect width="390" height="86" rx="14" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <text x="20" y="38" font-size="15" font-weight="700" fill="#4A90D9">Layer 1 · Find lines</text>
+    <text x="20" y="64" font-size="12.5" fill="#8A7F72">Strokes, curves, color edges</text>
+    <path d="M 250 26 h 44 M 250 46 l 34 22 M 316 24 q 26 12 4 44" stroke="#4A90D9" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(510,208)">
+    <rect width="390" height="86" rx="14" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <text x="20" y="38" font-size="15" font-weight="700" fill="#F59E0B">Layer 2 · Spot parts</text>
+    <text x="20" y="64" font-size="12.5" fill="#8A7F72">Pointy ears, round eyes, whiskers</text>
+    <path d="M 252 62 L 264 24 L 288 52 Z" fill="#F2A65A"/>
+    <circle cx="318" cy="44" r="12" fill="#3D3229"/>
+    <path d="M 344 36 h 34 M 344 50 h 30" stroke="#C77E3E" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(510,306)">
+    <rect width="390" height="86" rx="14" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <text x="20" y="38" font-size="15" font-weight="700" fill="#5FA968">Layer 3 · Assemble the whole</text>
+    <text x="20" y="64" font-size="12.5" fill="#8A7F72">Parts line up: "cat" at 98%</text>
+    <circle cx="300" cy="46" r="24" fill="#F2A65A"/>
+    <path d="M 282 32 L 277 14 L 293 24 Z M 318 32 L 323 14 L 307 24 Z" fill="#F2A65A"/>
+    <circle cx="292" cy="42" r="2.6" fill="#3D3229"/>
+    <circle cx="308" cy="42" r="2.6" fill="#3D3229"/>
+    <circle cx="356" cy="42" r="13" fill="#5FA968"/>
+    <path d="M 350 42 l 4 5 l 8 -10" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="480" y="466" text-anchor="middle" font-size="13.5" fill="#9A8F80">Face unlock, medical-scan helpers, and self-driving eyes all run on this layered trick</text>
+</svg>

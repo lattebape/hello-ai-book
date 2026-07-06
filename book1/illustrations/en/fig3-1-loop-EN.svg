@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="560" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Training: One Simple Move, a Million Times Over</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 3-1 | This is how a machine practices its way to skill</text>
+
+  <!-- 环形箭头 -->
+  <g stroke="#C9BCA6" stroke-width="3.5" fill="none" stroke-dasharray="8 7">
+    <path d="M 512 172 A 150 150 0 0 1 598 258"/>
+    <path d="M 598 382 A 150 150 0 0 1 512 468"/>
+    <path d="M 388 468 A 150 150 0 0 1 302 382"/>
+    <path d="M 302 258 A 150 150 0 0 1 388 172"/>
+  </g>
+  <polygon points="598,262 588,246 604,246" fill="#C9BCA6"/>
+  <polygon points="508,468 522,459 522,477" fill="#C9BCA6"/>
+  <polygon points="302,378 312,394 296,394" fill="#C9BCA6"/>
+  <polygon points="392,172 378,181 378,163" fill="#C9BCA6"/>
+
+  <!-- 中心 -->
+  <text x="450" y="312" text-anchor="middle" font-size="21" font-weight="700" fill="#E8734A">Repeat a million times</text>
+  <text x="450" y="338" text-anchor="middle" font-size="13" fill="#8A7F72">Each pass, just a tiny bit better</text>
+
+  <!-- 上：Look at a picture -->
+  <g transform="translate(450,150)">
+    <circle r="34" fill="#4A90D9"/>
+    <rect x="-15" y="-11" width="30" height="22" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2.6"/>
+    <circle cx="-7" cy="-4" r="2.4" fill="#FFFFFF"/>
+    <path d="M -11 7 L -4 -1 L 1 4 L 6 -2 L 11 7" stroke="#FFFFFF" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+    <text y="-48" text-anchor="middle" font-size="16" font-weight="600" fill="#3D3229">Look at a picture</text>
+  </g>
+
+  <!-- 右：Take a guess -->
+  <g transform="translate(640,320)">
+    <circle r="34" fill="#F59E0B"/>
+    <circle cx="-6" cy="4" r="11" fill="#FFFFFF"/>
+    <path d="M -14 -3 L -18 -13 L -8 -8 Z" fill="#FFFFFF"/>
+    <path d="M 2 -3 L 6 -13 L -4 -8 Z" fill="#FFFFFF"/>
+    <text x="13" y="10" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">?</text>
+    <text x="0" y="62" text-anchor="middle" font-size="16" font-weight="600" fill="#3D3229">Take a guess</text>
+  </g>
+
+  <!-- 下：Check the answer -->
+  <g transform="translate(450,490)">
+    <circle r="34" fill="#5FA968"/>
+    <path d="M -18 0 l 7 8 l 12 -14" stroke="#FFFFFF" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 8 -6 L 20 6 M 20 -6 L 8 6" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round"/>
+    <text y="58" text-anchor="middle" font-size="16" font-weight="600" fill="#3D3229">Check the answer</text>
+  </g>
+
+  <!-- 左：调一点点 -->
+  <g transform="translate(260,320)">
+    <circle r="34" fill="#8B6FC0"/>
+    <line x1="-16" y1="-8" x2="16" y2="-8" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="6" cy="-8" r="5" fill="#FFFFFF"/>
+    <line x1="-16" y1="8" x2="16" y2="8" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="-6" cy="8" r="5" fill="#FFFFFF"/>
+    <text y="62" text-anchor="middle" font-size="16" font-weight="600" fill="#3D3229">If wrong, nudge a little</text>
+  </g>
+</svg>

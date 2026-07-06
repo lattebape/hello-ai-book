@@ -1,0 +1,47 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="560" fill="#FAF6EF"/>
+  <text x="450" y="54" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">《你好，AI》两位向导 · 角色设定图</text>
+
+  <ellipse cx="450" cy="505" rx="320" ry="24" fill="#F1E7D6"/>
+
+  <!-- 小悠：站立挥手 -->
+  <g transform="translate(320,470)">
+    <ellipse cx="-11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <ellipse cx="11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <rect x="-18" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="3" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="-28" y="-138" width="56" height="84" rx="24" fill="#F7C64B"/>
+    <rect x="-42" y="-130" width="14" height="54" rx="7" fill="#F7C64B"/>
+    <circle cx="-35" cy="-72" r="7" fill="#FFCFA8"/>
+    <path d="M 30 -122 L 58 -168" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="60" cy="-172" r="7.5" fill="#FFCFA8"/>
+    <path d="M 74 -186 q 10 6 8 18" stroke="#C9BCA6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 82 -172 q 6 5 4 12" stroke="#C9BCA6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <circle cy="-172" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -172 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <circle cx="-12" cy="-163" r="3" fill="#2E2A28"/>
+    <circle cx="12" cy="-163" r="3" fill="#2E2A28"/>
+    <path d="M -8 -153 q 8 7 16 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+    <ellipse cx="22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+  </g>
+  <text x="320" y="534" text-anchor="middle" font-size="18" font-weight="700" fill="#3D3229">小悠</text>
+  <text x="320" y="554" text-anchor="middle" font-size="13" fill="#8A7F72">和你我一样的普通人</text>
+
+  <!-- 泡泡：悬浮挥手 -->
+  <ellipse cx="600" cy="472" rx="42" ry="8" fill="#E4DACA" opacity="0.8"/>
+  <g transform="translate(600,340)">
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <path d="M -13 -5 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 4 -5 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -5 4 q 5 4 10 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <circle cx="-46" cy="-16" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <circle cx="42" cy="6" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -60 -30 q -8 8 -6 18" stroke="#C9BCA6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="534" text-anchor="middle" font-size="18" font-weight="700" fill="#3D3229">泡泡</text>
+  <text x="600" y="554" text-anchor="middle" font-size="13" fill="#8A7F72">住在设备里的 AI 小向导</text>
+</svg>

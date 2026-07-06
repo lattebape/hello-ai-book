@@ -1,0 +1,74 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="480" fill="#FAF6EF"/>
+  <ellipse cx="450" cy="438" rx="360" ry="24" fill="#F1E7D6"/>
+
+  <!-- 柴犬 -->
+  <g transform="translate(250,360)">
+    <path d="M -60 40 q -34 -22 -20 -58 q 10 -28 46 -30 l 68 0 q 36 4 44 34 q 8 34 -22 54 z" fill="#E0A868"/>
+    <path d="M -6 40 q -26 -6 -26 -34 q 0 -26 26 -30 l 12 0 q 26 4 26 30 q 0 28 -26 34 z" fill="#F7EBD9"/>
+    <circle cx="-58" cy="-58" r="40" fill="#E0A868"/>
+    <path d="M -88 -84 L -96 -118 L -66 -100 Z" fill="#E0A868"/>
+    <path d="M -28 -84 L -20 -118 L -50 -100 Z" fill="#E0A868"/>
+    <path d="M -84 -88 L -88 -106 L -72 -96 Z" fill="#C98F4E"/>
+    <path d="M -32 -88 L -28 -106 L -44 -96 Z" fill="#C98F4E"/>
+    <ellipse cx="-58" cy="-44" rx="24" ry="18" fill="#F7EBD9"/>
+    <circle cx="-72" cy="-64" r="4" fill="#3D3229"/>
+    <circle cx="-44" cy="-64" r="4" fill="#3D3229"/>
+    <ellipse cx="-58" cy="-50" rx="5" ry="4" fill="#3D3229"/>
+    <path d="M -58 -46 q 0 6 -8 7 M -58 -46 q 0 6 8 7" stroke="#3D3229" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 78 6 q 30 -8 24 -34 q -22 2 -26 22" fill="#E0A868"/>
+    <rect x="-46" y="26" width="16" height="22" rx="7" fill="#E0A868"/>
+    <rect x="18" y="26" width="16" height="22" rx="7" fill="#E0A868"/>
+    <ellipse cx="-38" cy="50" rx="13" ry="6" fill="#C98F4E"/>
+    <ellipse cx="26" cy="50" rx="13" ry="6" fill="#C98F4E"/>
+  </g>
+
+  <!-- 泡泡：指着柴犬猜测 -->
+  <g transform="translate(560,270)">
+    <ellipse cx="0" cy="160" rx="42" ry="8" fill="#E4DACA" opacity="0.8"/>
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <circle cx="-9" cy="-4" r="3" fill="#2C6E9E"/>
+    <circle cx="9" cy="-4" r="3" fill="#2C6E9E"/>
+    <ellipse cx="0" cy="7" rx="3" ry="3.6" fill="#2C6E9E"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <circle cx="-48" cy="-4" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <circle cx="42" cy="6" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+  </g>
+
+  <!-- 思考气泡：猫？ -->
+  <circle cx="618" cy="176" r="5" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2"/>
+  <circle cx="634" cy="152" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2"/>
+  <g transform="translate(690,104)">
+    <ellipse rx="62" ry="44" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <circle cx="-18" cy="2" r="17" fill="#8A7F72"/>
+    <path d="M -32 -8 L -37 -22 L -24 -14 Z" fill="#8A7F72"/>
+    <path d="M -4 -8 L 1 -22 L -12 -14 Z" fill="#8A7F72"/>
+    <path d="M -42 0 h -8 M -42 6 h -8 M 6 0 h 8 M 6 6 h 8" stroke="#8A7F72" stroke-width="2" stroke-linecap="round"/>
+    <text x="34" y="12" text-anchor="middle" font-size="32" font-weight="700" fill="#4A90D9">?</text>
+  </g>
+  <circle cx="762" cy="146" r="17" fill="#E8734A"/>
+  <path d="M 755 139 L 769 153 M 769 139 L 755 153" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- 小悠：微笑摆手 -->
+  <g transform="translate(790,420)">
+    <ellipse cx="-11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <ellipse cx="11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <rect x="-18" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="3" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="-28" y="-138" width="56" height="84" rx="24" fill="#F7C64B"/>
+    <path d="M -28 -120 L -62 -146" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="-66" cy="-149" r="7.5" fill="#FFCFA8"/>
+    <path d="M -80 -162 q -8 6 -8 16" stroke="#C9BCA6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <rect x="28" y="-130" width="14" height="54" rx="7" fill="#F7C64B"/>
+    <circle cx="35" cy="-72" r="7" fill="#FFCFA8"/>
+    <circle cy="-172" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -172 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <path d="M -16 -164 q 5 -4 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M 7 -164 q 5 -4 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M -8 -153 q 8 7 16 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+    <ellipse cx="22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+  </g>
+</svg>
