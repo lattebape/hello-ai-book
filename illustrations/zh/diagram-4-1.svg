@@ -1,0 +1,36 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="500" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">猜下一个词：AI 唯一在做的事</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 4-1 ｜ 每个词都是一次概率选择</text>
+
+  <!-- 句子卡 -->
+  <rect x="190" y="100" width="520" height="72" rx="16" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <text x="420" y="146" text-anchor="middle" font-size="26" font-weight="700" fill="#3D3229">今天天气真</text>
+  <line x1="560" y1="152" x2="640" y2="152" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+  <text x="600" y="140" text-anchor="middle" font-size="20" fill="#E8905A">?</text>
+
+  <path d="M 450 180 L 450 212" stroke="#C9BCA6" stroke-width="3.5" stroke-dasharray="7 7"/>
+  <polygon points="450,220 443,206 457,206" fill="#C9BCA6"/>
+
+  <!-- 概率条 -->
+  <g font-size="17" font-weight="700">
+    <text x="230" y="268" text-anchor="end" fill="#3D3229">好</text>
+    <rect x="250" y="248" width="380" height="30" rx="15" fill="#F59E0B"/>
+    <text x="644" y="270" fill="#E8905A" font-size="15">68%</text>
+    <path d="M 700 250 l 5 -11 l 4 11 l 11 3 l -10 5 l -1 12 l -8 -9 l -12 2 l 7 -9 z" fill="#F7C64B"/>
+
+    <text x="230" y="322" text-anchor="end" fill="#3D3229">不错</text>
+    <rect x="250" y="302" width="112" height="30" rx="15" fill="#F2C48A"/>
+    <text x="376" y="324" fill="#9A8F80" font-size="15">17%</text>
+
+    <text x="230" y="376" text-anchor="end" fill="#3D3229">冷</text>
+    <rect x="250" y="356" width="62" height="30" rx="15" fill="#F2C48A"/>
+    <text x="326" y="378" fill="#9A8F80" font-size="15">9%</text>
+
+    <text x="230" y="430" text-anchor="end" fill="#3D3229">其他</text>
+    <rect x="250" y="410" width="42" height="30" rx="15" fill="#EADFCC"/>
+    <text x="306" y="432" fill="#9A8F80" font-size="15">6%</text>
+  </g>
+
+  <text x="450" y="480" text-anchor="middle" font-size="13.5" fill="#9A8F80">挑一个概率高的接上去，再把新句子当开头，继续猜下一个——循环往复，直到接完整段话</text>
+</svg>

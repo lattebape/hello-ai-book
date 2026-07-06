@@ -1,0 +1,59 @@
+<svg viewBox="0 0 960 460" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="460" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">How AI "Paints": Carving a Picture out of Noise</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 5-2 | Each step nudges the image closer to the description</text>
+
+  <rect x="290" y="94" width="380" height="42" rx="21" fill="#FFF3D6" stroke="#F59E0B" stroke-width="2.5"/>
+  <text x="480" y="121" text-anchor="middle" font-size="15" font-weight="600" fill="#B45309">"Paint a cat wearing a red scarf"</text>
+
+  <!-- 格1：噪点 -->
+  <g transform="translate(70,170)">
+    <rect width="170" height="170" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+    <g>
+      <circle cx="34" cy="36" r="5" fill="#C9BCA6"/><circle cx="72" cy="24" r="4" fill="#8A7F72"/><circle cx="118" cy="42" r="6" fill="#DCD2C0"/><circle cx="146" cy="26" r="4" fill="#B9AFA0"/>
+      <circle cx="26" cy="82" r="4" fill="#8A7F72"/><circle cx="64" cy="70" r="6" fill="#DCD2C0"/><circle cx="102" cy="88" r="5" fill="#C9BCA6"/><circle cx="140" cy="72" r="4" fill="#8A7F72"/>
+      <circle cx="40" cy="126" r="6" fill="#DCD2C0"/><circle cx="82" cy="118" r="4" fill="#B9AFA0"/><circle cx="120" cy="132" r="5" fill="#C9BCA6"/><circle cx="148" cy="116" r="4" fill="#DCD2C0"/>
+      <circle cx="58" cy="150" r="4" fill="#8A7F72"/><circle cx="96" cy="148" r="5" fill="#B9AFA0"/><circle cx="132" cy="152" r="4" fill="#C9BCA6"/>
+    </g>
+    <text x="85" y="198" text-anchor="middle" font-size="13.5" fill="#8A7F72">Random noise</text>
+  </g>
+  <path d="M 252 255 h 24" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/><polygon points="284,255 270,248 270,262" fill="#C9BCA6"/>
+
+  <!-- 格2：模糊色块 -->
+  <g transform="translate(296,170)">
+    <rect width="170" height="170" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+    <ellipse cx="85" cy="88" rx="52" ry="46" fill="#F2A65A" opacity="0.4"/>
+    <ellipse cx="85" cy="126" rx="40" ry="18" fill="#E8734A" opacity="0.35"/>
+    <ellipse cx="60" cy="52" rx="16" ry="20" fill="#F2A65A" opacity="0.35"/>
+    <ellipse cx="112" cy="52" rx="16" ry="20" fill="#F2A65A" opacity="0.35"/>
+    <text x="85" y="198" text-anchor="middle" font-size="13.5" fill="#8A7F72">Vague blotches</text>
+  </g>
+  <path d="M 478 255 h 24" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/><polygon points="510,255 496,248 496,262" fill="#C9BCA6"/>
+
+  <!-- 格3：初现 -->
+  <g transform="translate(522,170)">
+    <rect width="170" height="170" rx="12" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+    <circle cx="85" cy="82" r="38" fill="#F2A65A" opacity="0.8"/>
+    <path d="M 58 56 L 50 30 L 74 44 Z M 112 56 L 120 30 L 96 44 Z" fill="#F2A65A" opacity="0.8"/>
+    <path d="M 50 122 q 35 18 70 0 l 0 16 q -35 14 -70 0 z" fill="#E8734A" opacity="0.7"/>
+    <circle cx="72" cy="78" r="3.4" fill="#3D3229" opacity="0.6"/>
+    <circle cx="98" cy="78" r="3.4" fill="#3D3229" opacity="0.6"/>
+    <text x="85" y="198" text-anchor="middle" font-size="13.5" fill="#8A7F72">A shape emerges</text>
+  </g>
+  <path d="M 704 255 h 24" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/><polygon points="736,255 722,248 722,262" fill="#C9BCA6"/>
+
+  <!-- 格4：成画 -->
+  <g transform="translate(748,170)">
+    <rect width="170" height="170" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3.5"/>
+    <circle cx="85" cy="76" r="36" fill="#F2A65A"/>
+    <path d="M 59 52 L 51 26 L 75 40 Z M 111 52 L 119 26 L 95 40 Z" fill="#F2A65A"/>
+    <circle cx="72" cy="70" r="3.6" fill="#3D3229"/>
+    <circle cx="98" cy="70" r="3.6" fill="#3D3229"/>
+    <path d="M 85 84 l -4 -6 h 8 z" fill="#E8734A"/>
+    <path d="M 50 118 q 35 20 70 0 l 0 18 q -20 10 -34 6 l -6 14 l -8 -16 q -12 -2 -22 -8 z" fill="#E8734A"/>
+    <path d="M 46 66 q -9 -2 -14 2 M 124 66 q 9 -2 14 2" stroke="#C77E3E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <text x="85" y="198" text-anchor="middle" font-size="13.5" fill="#8A7F72">A finished picture</text>
+  </g>
+
+  <text x="480" y="430" text-anchor="middle" font-size="13.5" fill="#9A8F80">"Nudge a little" sound familiar? Billions of picture-plus-caption pairs taught it which way to nudge</text>
+</svg>
