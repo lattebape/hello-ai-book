@@ -1,0 +1,57 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="520" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">岗位不是铁板，是一捆任务</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 1-1 ｜ 被接走的是任务，留下来的更值钱</text>
+
+  <!-- 岗位大圆 -->
+  <circle cx="320" cy="290" r="170" fill="#FFFFFF" stroke="#C9BCA6" stroke-width="3.5"/>
+  <text x="320" y="146" text-anchor="middle" font-size="15" font-weight="700" fill="#8A7F72">你的岗位</text>
+
+  <!-- 留下的三块（星标） -->
+  <g>
+    <rect x="238" y="188" width="164" height="46" rx="14" fill="#FDF3DC" stroke="#F59E0B" stroke-width="2.5"/>
+    <text x="312" y="217" text-anchor="middle" font-size="14.5" font-weight="700" fill="#B45309">判断与拍板</text>
+    <path d="M 388 196 l 4 -9 l 4 9 l 10 2 l -8 6 l -1 10 l -7 -6 l -9 2 l 5 -8 z" fill="#F59E0B"/>
+  </g>
+  <g>
+    <rect x="212" y="252" width="164" height="46" rx="14" fill="#FDF3DC" stroke="#F59E0B" stroke-width="2.5"/>
+    <text x="286" y="281" text-anchor="middle" font-size="14.5" font-weight="700" fill="#B45309">沟通与信任</text>
+    <path d="M 362 260 l 4 -9 l 4 9 l 10 2 l -8 6 l -1 10 l -7 -6 l -9 2 l 5 -8 z" fill="#F59E0B"/>
+  </g>
+  <g>
+    <rect x="240" y="316" width="164" height="46" rx="14" fill="#FDF3DC" stroke="#F59E0B" stroke-width="2.5"/>
+    <text x="314" y="345" text-anchor="middle" font-size="14.5" font-weight="700" fill="#B45309">真实世界经验</text>
+    <path d="M 390 324 l 4 -9 l 4 9 l 10 2 l -8 6 l -1 10 l -7 -6 l -9 2 l 5 -8 z" fill="#F59E0B"/>
+  </g>
+
+  <!-- 被接走的任务块（移出圆外） -->
+  <g>
+    <rect x="560" y="170" width="130" height="40" rx="12" fill="#EAF3FB" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="625" y="196" text-anchor="middle" font-size="13.5" fill="#2C6E9E">写初稿</text>
+    <rect x="576" y="238" width="130" height="40" rx="12" fill="#EAF3FB" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="641" y="264" text-anchor="middle" font-size="13.5" fill="#2C6E9E">整理与归档</text>
+    <rect x="560" y="306" width="130" height="40" rx="12" fill="#EAF3FB" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="625" y="332" text-anchor="middle" font-size="13.5" fill="#2C6E9E">翻译与模板活</text>
+  </g>
+  <path d="M 452 210 Q 510 190 552 190" stroke="#4A90D9" stroke-width="3" fill="none" stroke-dasharray="7 7"/>
+  <polygon points="558,190 545,184 545,197" fill="#4A90D9"/>
+  <path d="M 470 290 Q 520 258 568 258" stroke="#4A90D9" stroke-width="3" fill="none" stroke-dasharray="7 7"/>
+  <polygon points="574,258 561,252 561,265" fill="#4A90D9"/>
+  <path d="M 452 366 Q 510 330 552 326" stroke="#4A90D9" stroke-width="3" fill="none" stroke-dasharray="7 7"/>
+  <polygon points="558,326 545,320 545,333" fill="#4A90D9"/>
+
+  <!-- 泡泡接收 -->
+  <g transform="translate(790,258)">
+    <ellipse rx="32" ry="28" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="19" ry="14" fill="#CFE9F8"/>
+    <path d="M -10 -4 q 3.5 -4 7 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M 3 -4 q 3.5 -4 7 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M -4 4 q 4 3 8 0" stroke="#2C6E9E" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <line y1="-28" y2="-40" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-45" r="4.5" fill="#F59E0B"/>
+  </g>
+  <text x="790" y="322" text-anchor="middle" font-size="12" fill="#8A7F72">格式化任务</text>
+  <text x="790" y="342" text-anchor="middle" font-size="12" fill="#8A7F72">它来接</text>
+
+  <text x="320" y="492" text-anchor="middle" font-size="12.5" fill="#8A7F72">留下的三块＝第一册的三条能力边界，正好是它接不走的</text>
+</svg>

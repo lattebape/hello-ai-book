@@ -1,0 +1,60 @@
+<svg viewBox="0 0 960 560" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="560" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Four Elements of a Picture Prompt</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 7-2 | Vague words, vague pictures — the prompt steers</text>
+
+  <!-- 主体 -->
+  <rect x="70" y="100" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+  <circle cx="130" cy="150" r="26" fill="#FDEDE4"/>
+  <g transform="translate(130,152)">
+    <circle r="13" fill="#E8734A"/>
+    <path d="M -11 -8 l -5 -9 l 9 3 z M 11 -8 l 5 -9 l -9 3 z" fill="#E8734A"/>
+    <path d="M -5 12 a 9 6 0 0 0 10 0" stroke="#E8734A" stroke-width="2.5" fill="none"/>
+  </g>
+  <text x="176" y="142" font-size="17" font-weight="700" fill="#B4472A">Subject: what to paint</text>
+  <text x="176" y="170" font-size="12.5" fill="#8A7F72">"A cat" is too vague —</text>
+  <text x="176" y="194" font-size="12.5" fill="#8A7F72">"orange cat, red scarf, on a windowsill"</text>
+  <text x="96" y="236" font-size="12" fill="#B9AFA0">Who, where, doing what</text>
+
+  <!-- 风格 -->
+  <rect x="490" y="100" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+  <g transform="translate(550,150)">
+    <circle r="26" fill="#F1ECF8"/>
+    <path d="M -12 8 a 14 14 0 0 1 24 -12 a 10 10 0 0 1 -4 18 q -6 2 -12 0 l -4 6 z" fill="#8B6FC0"/>
+    <circle cx="-2" cy="-4" r="2.6" fill="#FFFFFF"/><circle cx="7" cy="0" r="2.6" fill="#FFFFFF"/>
+  </g>
+  <text x="596" y="142" font-size="17" font-weight="700" fill="#8B6FC0">Style: what look</text>
+  <text x="596" y="170" font-size="12.5" fill="#8A7F72">Storybook · watercolor · ink ·</text>
+  <text x="596" y="194" font-size="12.5" fill="#8A7F72">pixel art · "photo-realistic"</text>
+  <text x="516" y="236" font-size="12" fill="#B9AFA0">Skip it and it picks at random</text>
+
+  <!-- 细节 -->
+  <rect x="70" y="280" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(130,330)">
+    <circle r="26" fill="#EAF3FB"/>
+    <circle cx="-4" cy="-4" r="11" fill="none" stroke="#4A90D9" stroke-width="3.4"/>
+    <line x1="5" y1="5" x2="15" y2="15" stroke="#4A90D9" stroke-width="3.6" stroke-linecap="round"/>
+  </g>
+  <text x="176" y="322" font-size="17" font-weight="700" fill="#2C6E9E">Details: what to stress</text>
+  <text x="176" y="350" font-size="12.5" fill="#8A7F72">Fluffy fur · round eyes ·</text>
+  <text x="176" y="374" font-size="12.5" fill="#8A7F72">paws on the sill</text>
+  <text x="96" y="416" font-size="12" fill="#B9AFA0">Pick two or three, don't pile on</text>
+
+  <!-- 氛围 -->
+  <rect x="490" y="280" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <g transform="translate(550,330)">
+    <circle r="26" fill="#FDF3DC"/>
+    <circle cx="-4" cy="2" r="11" fill="#F59E0B"/>
+    <path d="M -4 -12 v -6 M 7 -8 l 5 -5 M -15 -8 l -5 -5 M 10 2 h 7" stroke="#F2A65A" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="596" y="322" font-size="17" font-weight="700" fill="#B45309">Mood: light & feeling</text>
+  <text x="596" y="350" font-size="12.5" fill="#8A7F72">Winter morning sun · quiet, warm</text>
+  <text x="596" y="374" font-size="12.5" fill="#8A7F72">(or: rainy · lively · mysterious)</text>
+  <text x="516" y="416" font-size="12" fill="#B9AFA0">Sets the "flavor" of the image</text>
+
+  <!-- 组合例句 -->
+  <rect x="70" y="462" width="820" height="46" rx="23" fill="#FFF9EE" stroke="#D9A05B" stroke-width="2.5"/>
+  <text x="480" y="491" text-anchor="middle" font-size="13.5" fill="#3D3229">Together: "Storybook style, an orange cat in a red scarf on a windowsill, fluffy, winter morning sun, quiet and warm."</text>
+
+  <text x="480" y="538" text-anchor="middle" font-size="13.5" fill="#9A8F80">Fixing a picture = fixing a draft — every follow-up skill applies</text>
+</svg>

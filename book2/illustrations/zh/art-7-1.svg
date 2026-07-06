@@ -1,0 +1,76 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="480" fill="#FAF6EF"/>
+  <ellipse cx="450" cy="444" rx="380" ry="24" fill="#F1E7D6"/>
+
+  <!-- 彩旗 -->
+  <path d="M 120 90 Q 450 130 780 90" stroke="#C9BCA6" stroke-width="3" fill="none"/>
+  <path d="M 190 99 l 13 34 l 15 -31 z" fill="#F59E0B"/>
+  <path d="M 300 110 l 13 34 l 15 -31 z" fill="#4A90D9"/>
+  <path d="M 410 116 l 13 34 l 15 -31 z" fill="#5FA968"/>
+  <path d="M 520 114 l 13 34 l 15 -31 z" fill="#E8734A"/>
+  <path d="M 630 105 l 13 34 l 15 -31 z" fill="#8B6FC0"/>
+
+  <!-- 书桌与稿纸 -->
+  <rect x="110" y="330" width="300" height="18" rx="8" fill="#D9A05B"/>
+  <rect x="132" y="348" width="16" height="90" rx="7" fill="#C98F4E"/>
+  <rect x="360" y="348" width="16" height="90" rx="7" fill="#C98F4E"/>
+  <g transform="translate(190,318) rotate(-4)">
+    <rect x="-30" y="-10" width="60" height="12" rx="3" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2"/>
+    <rect x="-27" y="-20" width="60" height="12" rx="3" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2"/>
+  </g>
+  <g transform="translate(320,314) rotate(3)">
+    <rect x="-32" y="-14" width="64" height="30" rx="4" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -20 -4 h 40 M -20 6 h 30" stroke="#DCD2C0" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- 小悠：伏案写字 -->
+  <g transform="translate(258,352)">
+    <rect x="-30" y="-96" width="60" height="88" rx="24" fill="#F7C64B"/>
+    <path d="M -30 -70 L -66 -42" stroke="#F7C64B" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="-71" cy="-38" r="7" fill="#FFCFA8"/>
+    <path d="M 30 -70 L 58 -44" stroke="#F7C64B" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="62" cy="-40" r="7" fill="#FFCFA8"/>
+    <g transform="translate(70,-52) rotate(40)">
+      <rect x="-4" y="-18" width="8" height="26" rx="3" fill="#4A90D9"/>
+      <path d="M -4 8 L 0 18 L 4 8 Z" fill="#F2A65A"/>
+    </g>
+    <circle cy="-130" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -130 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <circle cx="-12" cy="-121" r="3" fill="#2E2A28"/>
+    <circle cx="12" cy="-121" r="3" fill="#2E2A28"/>
+    <path d="M -8 -111 q 8 7 16 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-113" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+    <ellipse cx="22" cy="-113" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+  </g>
+
+  <!-- 画架与画布 -->
+  <g transform="translate(650,270)">
+    <line x1="-52" y1="170" x2="0" y2="-64" stroke="#C98F4E" stroke-width="9" stroke-linecap="round"/>
+    <line x1="52" y1="170" x2="0" y2="-64" stroke="#C98F4E" stroke-width="9" stroke-linecap="round"/>
+    <line x1="0" y1="170" x2="0" y2="20" stroke="#C98F4E" stroke-width="8" stroke-linecap="round"/>
+    <rect x="-78" y="-56" width="156" height="120" rx="6" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3.5"/>
+    <circle cx="36" cy="-20" r="18" fill="#F7C64B"/>
+    <path d="M -66 48 L -22 6 L 8 36 L 34 16 L 70 48 Z" fill="#5FA968"/>
+    <line x1="-70" y1="48" x2="70" y2="48" stroke="#E0D6C6" stroke-width="2"/>
+  </g>
+
+  <!-- 泡泡：执笔作画 -->
+  <g transform="translate(520,300)">
+    <ellipse cx="0" cy="120" rx="42" ry="8" fill="#E4DACA" opacity="0.8"/>
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <path d="M -13 -5 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 4 -5 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -5 5 q 5 4 10 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <circle cx="-44" cy="10" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <g transform="translate(46,-16)">
+      <circle r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+      <g transform="rotate(-36)">
+        <rect x="4" y="-5" width="42" height="9" rx="4" fill="#E8734A"/>
+        <path d="M 46 -5 l 12 4.5 l -12 4.5 z" fill="#8A7F72"/>
+      </g>
+    </g>
+  </g>
+</svg>

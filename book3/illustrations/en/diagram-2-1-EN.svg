@@ -1,0 +1,35 @@
+<svg viewBox="0 0 900 540" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="540" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Three House Rules for the Fridge Door</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 2-1 | Tutoring: yes. Ghostwriting: no.</text>
+
+  <!-- 冰箱局部 -->
+  <rect x="150" y="92" width="600" height="400" rx="20" fill="#DCE8EA" stroke="#B9CBCE" stroke-width="3"/>
+  <rect x="170" y="240" width="12" height="120" rx="6" fill="#B9CBCE"/>
+
+  <!-- 便签 -->
+  <g transform="translate(470,292) rotate(-1.5)">
+    <rect x="-240" y="-168" width="480" height="336" rx="8" fill="#FFFDF4" stroke="#E9DFC8" stroke-width="2.5"/>
+    <circle cx="-180" cy="-150" r="11" fill="#E8734A"/>
+    <circle cx="182" cy="-148" r="11" fill="#4A90D9"/>
+    <text y="-118" text-anchor="middle" font-size="19" font-weight="800" fill="#3D3229">Our Family AI Rules</text>
+    <line x1="-190" y1="-96" x2="190" y2="-96" stroke="#EADFC6" stroke-width="2.5"/>
+
+    <circle cx="-186" cy="-52" r="17" fill="#F59E0B"/>
+    <text x="-186" y="-45" text-anchor="middle" font-size="15" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="-152" y="-56" font-size="16.5" font-weight="700" fill="#B45309">Think first, then ask AI</text>
+    <text x="-152" y="-32" font-size="12" fill="#8A7F72">Start on your own; mark the stuck spots, then ask for hints</text>
+
+    <circle cx="-186" cy="28" r="17" fill="#4A90D9"/>
+    <text x="-186" y="35" text-anchor="middle" font-size="15" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="-152" y="24" font-size="16.5" font-weight="700" fill="#2C6E9E">If AI said it, you can retell it</text>
+    <text x="-152" y="48" font-size="12" fill="#8A7F72">Explain it back to Mom or Dad — retold means learned</text>
+
+    <circle cx="-186" cy="108" r="17" fill="#5FA968"/>
+    <text x="-186" y="115" text-anchor="middle" font-size="15" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="-152" y="104" font-size="16.5" font-weight="700" fill="#3E7D4B">Use it together, not in secret</text>
+    <text x="-152" y="128" font-size="12" fill="#8A7F72">In the living room, near grown-ups — company, not spying</text>
+  </g>
+
+  <text x="450" y="518" text-anchor="middle" font-size="13.5" fill="#9A8F80">The touchstone: close the device — if you can explain it to someone, it's learned</text>
+</svg>

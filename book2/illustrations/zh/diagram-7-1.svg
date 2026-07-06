@@ -1,0 +1,63 @@
+<svg viewBox="0 0 960 470" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="470" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">写作四步流水线</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 7-1 ｜ 灵感可以外包，声音和判断不能</text>
+
+  <path d="M 262 240 h 16" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/><polygon points="286,240 273,233 273,247" fill="#C9BCA6"/>
+  <path d="M 490 240 h 16" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/><polygon points="514,240 501,233 501,247" fill="#C9BCA6"/>
+  <path d="M 718 240 h 16" stroke="#C9BCA6" stroke-width="4" stroke-linecap="round"/><polygon points="742,240 729,233 729,247" fill="#C9BCA6"/>
+
+  <!-- 步骤1 脑暴 -->
+  <rect x="52" y="120" width="210" height="252" rx="18" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <g transform="translate(157,178)">
+    <circle r="24" fill="#F7C64B"/>
+    <circle cy="-3" r="10" fill="#FFF7E6"/>
+    <rect x="-5" y="10" width="10" height="7" rx="3" fill="#FFF7E6"/>
+    <path d="M 0 -24 v -10 M 18 -17 l 8 -8 M -18 -17 l -8 -8" stroke="#F2A65A" stroke-width="3.4" stroke-linecap="round"/>
+  </g>
+  <text x="157" y="242" text-anchor="middle" font-size="17" font-weight="700" fill="#B45309">① 脑暴</text>
+  <text x="157" y="274" text-anchor="middle" font-size="12.5" fill="#8A7F72">量大管饱：</text>
+  <text x="157" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">"给我十个角度"</text>
+  <text x="157" y="332" text-anchor="middle" font-size="12" fill="#B9AFA0">要的是眼睛一亮的那个</text>
+
+  <!-- 步骤2 大纲 -->
+  <rect x="280" y="120" width="210" height="252" rx="18" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(385,178)" stroke="#4A90D9" stroke-width="4" stroke-linecap="round">
+    <line x1="-22" y1="-22" x2="22" y2="-22"/>
+    <line x1="-14" y1="-6" x2="22" y2="-6"/>
+    <line x1="-14" y1="10" x2="22" y2="10"/>
+    <line x1="-22" y1="26" x2="22" y2="26"/>
+    <circle cx="-22" cy="-6" r="2.6" fill="#4A90D9" stroke="none"/>
+    <circle cx="-22" cy="10" r="2.6" fill="#4A90D9" stroke="none"/>
+  </g>
+  <text x="385" y="242" text-anchor="middle" font-size="17" font-weight="700" fill="#2C6E9E">② 大纲</text>
+  <text x="385" y="274" text-anchor="middle" font-size="12.5" fill="#8A7F72">先骨架，后血肉：</text>
+  <text x="385" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">三到五部分，各两三个要点</text>
+  <text x="385" y="332" text-anchor="middle" font-size="12" fill="#B9AFA0">白纸恐惧症到此为止</text>
+
+  <!-- 步骤3 初稿 -->
+  <rect x="508" y="120" width="210" height="252" rx="18" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+  <g transform="translate(613,178)">
+    <rect x="-30" y="-26" width="44" height="54" rx="5" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5"/>
+    <path d="M -20 -12 h 24 M -20 0 h 18 M -20 12 h 22" stroke="#9CC7A4" stroke-width="3" stroke-linecap="round"/>
+    <g transform="translate(24,10) rotate(38)">
+      <rect x="-4" y="-16" width="8" height="24" rx="3" fill="#E8734A"/>
+      <path d="M -4 8 L 0 17 L 4 8 Z" fill="#F2A65A"/>
+    </g>
+  </g>
+  <text x="613" y="242" text-anchor="middle" font-size="17" font-weight="700" fill="#3E7D4B">③ 初稿</text>
+  <text x="613" y="274" text-anchor="middle" font-size="12.5" fill="#8A7F72">省力版：它写你改</text>
+  <text x="613" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">上进版：你写它改</text>
+  <text x="613" y="332" text-anchor="middle" font-size="12" fill="#B9AFA0">红笔落在自己字上进步快</text>
+
+  <!-- 步骤4 你定稿 -->
+  <rect x="736" y="114" width="172" height="264" rx="18" fill="#FFF9EE" stroke="#E8734A" stroke-width="4"/>
+  <path d="M 822 146 l 7 -15 l 6 15 l 16 3 l -12 9 l -1 16 l -12 -10 l -15 3 l 8 -13 z" fill="#F59E0B"/>
+  <text x="822" y="242" text-anchor="middle" font-size="17" font-weight="700" fill="#B4472A">④ 你定稿</text>
+  <text x="822" y="274" text-anchor="middle" font-size="12.5" fill="#8A7F72">换掉不像你的词</text>
+  <text x="822" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">例子换成你的经历</text>
+  <rect x="756" y="316" width="132" height="34" rx="12" fill="#FDEDE4"/>
+  <text x="822" y="338" text-anchor="middle" font-size="12" font-weight="700" fill="#B4472A">这一步不能外包</text>
+
+  <text x="480" y="434" text-anchor="middle" font-size="13.5" fill="#9A8F80">署名诚实：AI 参与了主要创作，就大方说明——这本书自己就是这么写的</text>
+</svg>

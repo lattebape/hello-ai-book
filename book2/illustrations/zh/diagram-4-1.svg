@@ -1,0 +1,56 @@
+<svg viewBox="0 0 960 620" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="620" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">万事屋四张模板卡</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 4-1 ｜ 模板是起手式，背景和追问才是灵魂</text>
+
+  <!-- 卡1 旅行 -->
+  <rect x="56" y="100" width="420" height="230" rx="18" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <circle cx="106" cy="146" r="22" fill="#4A90D9"/>
+  <path d="M 96 152 q 10 -16 20 0 M 100 140 q 6 -8 12 0" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <circle cx="106" cy="152" r="2.6" fill="#FFFFFF"/>
+  <text x="142" y="140" font-size="17" font-weight="700" fill="#2C6E9E">旅行规划</text>
+  <text x="142" y="162" font-size="11.5" fill="#9A8F80">出个懂你的粗排</text>
+  <text x="80" y="196" font-size="12.5" fill="#8A7F72">报清：天数目的地 · 同行人 · 节奏偏好</text>
+  <text x="80" y="220" font-size="12.5" fill="#8A7F72">预算 · 特别想 · 特别不想</text>
+  <text x="80" y="244" font-size="12.5" fill="#8A7F72">要求：先出粗排，标每天体力强度</text>
+  <rect x="80" y="266" width="372" height="40" rx="12" fill="#FDF3DC"/>
+  <circle cx="102" cy="286" r="9" fill="#F59E0B"/><rect x="100" y="280" width="4" height="8" rx="2" fill="#FFFFFF"/><circle cx="102" cy="291" r="1.8" fill="#FFFFFF"/>
+  <text x="120" y="291" font-size="12" fill="#B45309">营业时间、票价、预约——自己查官方渠道</text>
+
+  <!-- 卡2 菜谱 -->
+  <rect x="486" y="100" width="420" height="230" rx="18" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+  <circle cx="536" cy="146" r="22" fill="#5FA968"/>
+  <path d="M 528 138 a 9 10 0 0 1 16 0 l -2 12 h -12 z M 536 152 v 8" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <text x="572" y="140" font-size="17" font-weight="700" fill="#3E7D4B">冰箱清仓</text>
+  <text x="572" y="162" font-size="11.5" fill="#9A8F80">报食材，出菜谱</text>
+  <text x="510" y="196" font-size="12.5" fill="#8A7F72">报清：现有食材（含边角料）· 厨具</text>
+  <text x="510" y="220" font-size="12.5" fill="#8A7F72">做饭水平 · 几人份 · 想吃的类型</text>
+  <text x="510" y="244" font-size="12.5" fill="#8A7F72">要求：两三个方案，标注耗时</text>
+  <rect x="510" y="266" width="372" height="40" rx="12" fill="#EAF4EB"/>
+  <text x="530" y="291" font-size="12" fill="#3E7D4B">纯绿灯：难吃了大不了点外卖，常有惊喜</text>
+
+  <!-- 卡3 购物 -->
+  <rect x="56" y="352" width="420" height="230" rx="18" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <circle cx="106" cy="398" r="22" fill="#F59E0B"/>
+  <path d="M 96 392 h 20 l -3 14 h -14 z M 99 406 v 4 a 3 3 0 1 0 6 0 M 107 406 v 4 a 3 3 0 1 0 6 0" stroke="#FFFFFF" stroke-width="2.4" fill="none" stroke-linejoin="round"/>
+  <text x="142" y="392" font-size="17" font-weight="700" fill="#B45309">购物参谋</text>
+  <text x="142" y="414" font-size="11.5" fill="#9A8F80">让它当参谋，别让它拍板</text>
+  <text x="80" y="448" font-size="12.5" fill="#8A7F72">报清：候选或用途 · 使用场景 · 最看重什么 · 预算</text>
+  <text x="80" y="472" font-size="12.5" fill="#8A7F72">要求：对比表＋各自适合的人＋它的倾向和理由</text>
+  <rect x="80" y="500" width="372" height="58" rx="12" fill="#FDF3DC"/>
+  <circle cx="102" cy="522" r="9" fill="#F59E0B"/><rect x="100" y="516" width="4" height="8" rx="2" fill="#FFFFFF"/><circle cx="102" cy="527" r="1.8" fill="#FFFFFF"/>
+  <text x="120" y="521" font-size="12" fill="#B45309">价格型号自己上电商核实；</text>
+  <text x="120" y="543" font-size="12" fill="#B45309">掏钱的决定自己做</text>
+
+  <!-- 卡4 人情文案 -->
+  <rect x="486" y="352" width="420" height="230" rx="18" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+  <circle cx="536" cy="398" r="22" fill="#8B6FC0"/>
+  <path d="M 528 406 l 10 -18 l 6 4 l -10 18 l -8 3 z" fill="#FFFFFF"/>
+  <text x="572" y="392" font-size="17" font-weight="700" fill="#8B6FC0">人情文案</text>
+  <text x="572" y="414" font-size="11.5" fill="#9A8F80">最难开口的话，让它起个头</text>
+  <text x="510" y="448" font-size="12.5" fill="#8A7F72">报清：场合 · 对象关系与特点（越具体越好）</text>
+  <text x="510" y="472" font-size="12.5" fill="#8A7F72">核心意思 · 语气 · 字数 · "别用套话"</text>
+  <rect x="510" y="500" width="372" height="58" rx="12" fill="#F1ECF8"/>
+  <text x="530" y="521" font-size="12" fill="#8B6FC0">关键动作：把不像你会说的词换掉——</text>
+  <text x="530" y="543" font-size="12" fill="#8B6FC0">AI 起草，你注入人味</text>
+</svg>

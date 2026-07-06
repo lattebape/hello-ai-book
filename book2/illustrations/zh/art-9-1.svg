@@ -1,0 +1,77 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="480" fill="#FAF6EF"/>
+  <ellipse cx="450" cy="444" rx="380" ry="24" fill="#F1E7D6"/>
+
+  <!-- 软木板 -->
+  <rect x="200" y="80" width="500" height="260" rx="14" fill="#D9A05B"/>
+  <rect x="216" y="96" width="468" height="228" rx="10" fill="#E9C089"/>
+
+  <!-- 已钉的卡片 -->
+  <g transform="translate(292,160) rotate(-5)">
+    <rect x="-44" y="-30" width="88" height="60" rx="6" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -30 -12 h 60 M -30 2 h 44 M -30 16 h 52" stroke="#A9CBE8" stroke-width="4" stroke-linecap="round"/>
+    <circle cy="-30" r="6" fill="#E8734A"/>
+  </g>
+  <g transform="translate(430,150) rotate(3)">
+    <rect x="-44" y="-30" width="88" height="60" rx="6" fill="#FDF3DC" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -30 -12 h 60 M -30 2 h 50 M -30 16 h 38" stroke="#F2C48A" stroke-width="4" stroke-linecap="round"/>
+    <circle cy="-30" r="6" fill="#4A90D9"/>
+  </g>
+  <g transform="translate(568,164) rotate(-3)">
+    <rect x="-44" y="-30" width="88" height="60" rx="6" fill="#EAF4EB" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -30 -12 h 55 M -30 2 h 60 M -30 16 h 42" stroke="#9CC7A4" stroke-width="4" stroke-linecap="round"/>
+    <circle cy="-30" r="6" fill="#F59E0B"/>
+  </g>
+  <g transform="translate(360,262) rotate(4)">
+    <rect x="-44" y="-30" width="88" height="60" rx="6" fill="#F1ECF8" stroke="#E0D6C6" stroke-width="2.5"/>
+    <path d="M -30 -12 h 58 M -30 2 h 46 M -30 16 h 56" stroke="#CDBDE8" stroke-width="4" stroke-linecap="round"/>
+    <circle cy="-30" r="6" fill="#5FA968"/>
+  </g>
+
+  <!-- 小悠：踮脚钉新卡 -->
+  <g transform="translate(560,414)">
+    <ellipse cx="-11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <ellipse cx="11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <rect x="-18" y="-64" width="15" height="62" rx="7" fill="#4C6FB0"/>
+    <rect x="3" y="-64" width="15" height="62" rx="7" fill="#4C6FB0"/>
+    <rect x="-28" y="-140" width="56" height="84" rx="24" fill="#F7C64B"/>
+    <rect x="-42" y="-132" width="14" height="54" rx="7" fill="#F7C64B"/>
+    <circle cx="-35" cy="-74" r="7" fill="#FFCFA8"/>
+    <path d="M 28 -130 L 70 -172" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="76" cy="-177" r="7.5" fill="#FFCFA8"/>
+    <g transform="translate(96,-196) rotate(6)">
+      <rect x="-36" y="-24" width="72" height="48" rx="6" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+      <path d="M -24 -8 h 48 M -24 6 h 34" stroke="#F2A65A" stroke-width="4" stroke-linecap="round"/>
+      <circle cy="-24" r="6" fill="#8B6FC0"/>
+    </g>
+    <circle cy="-174" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -174 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <circle cx="-12" cy="-165" r="3" fill="#2E2A28"/>
+    <circle cx="12" cy="-165" r="3" fill="#2E2A28"/>
+    <path d="M -8 -155 q 8 7 16 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-157" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+    <ellipse cx="22" cy="-157" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+  </g>
+
+  <!-- 泡泡：托卡片递上 -->
+  <g transform="translate(250,368)">
+    <ellipse cx="0" cy="56" rx="42" ry="8" fill="#E4DACA" opacity="0.8"/>
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <path d="M -13 -5 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 4 -5 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -5 5 q 5 4 10 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <circle cx="-44" cy="0" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <g transform="translate(52,-18)">
+      <circle r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+      <g transform="translate(24,-16) rotate(-8)">
+        <rect x="-28" y="-20" width="56" height="38" rx="5" fill="#FDF3DC" stroke="#E0D6C6" stroke-width="2.5"/>
+        <rect x="-26" y="-30" width="56" height="38" rx="5" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+        <path d="M -14 -18 h 32 M -14 -6 h 24" stroke="#DCD2C0" stroke-width="3.4" stroke-linecap="round"/>
+      </g>
+    </g>
+  </g>
+  <path d="M 760 120 l 5 -11 l 4 11 l 11 3 l -10 5 l -1 12 l -8 -9 l -12 2 l 7 -9 z" fill="#F7C64B" opacity="0.9"/>
+</svg>

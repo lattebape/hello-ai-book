@@ -1,0 +1,36 @@
+<svg viewBox="0 0 900 540" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="540" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">提问的四块积木</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 2-1 ｜ 不必每次全搭，但背景那块最值钱</text>
+
+  <!-- 积木1：给身份 -->
+  <g transform="translate(450,146)">
+    <rect x="-190" y="-32" width="380" height="64" rx="12" fill="#8B6FC0"/>
+    <circle cx="-150" cy="-32" r="0"/>
+    <text x="-166" y="9" font-size="19" font-weight="700" fill="#FFFFFF">给身份</text>
+    <text x="-84" y="8" font-size="13.5" fill="#EDE6F8">"你是一位有耐心的家庭医生"</text>
+  </g>
+  <!-- 积木2：说背景（最大块） -->
+  <g transform="translate(450,226)">
+    <rect x="-230" y="-38" width="460" height="76" rx="12" fill="#F59E0B"/>
+    <text x="-206" y="-2" font-size="21" font-weight="800" fill="#FFFFFF">说背景</text>
+    <text x="-206" y="24" font-size="12.5" fill="#FFF3D6">"我完全不懂理财""收信人是我的老领导""预算三千以内"</text>
+    <path d="M 240 -14 l 6 -13 l 5 13 l 14 3 l -11 8 l -1 14 l -10 -9 l -13 3 l 7 -12 z" fill="#F7C64B"/>
+    <text x="266" y="30" font-size="12" fill="#B45309" text-anchor="middle">最值钱</text>
+  </g>
+  <!-- 积木3：派任务 -->
+  <g transform="translate(450,306)">
+    <rect x="-190" y="-32" width="380" height="64" rx="12" fill="#4A90D9"/>
+    <text x="-166" y="9" font-size="19" font-weight="700" fill="#FFFFFF">派任务</text>
+    <text x="-84" y="8" font-size="13.5" fill="#E3F0FA">"列出" "对比" "改写"——动词要具体</text>
+  </g>
+  <!-- 积木4：定样子 -->
+  <g transform="translate(450,386)">
+    <rect x="-190" y="-32" width="380" height="64" rx="12" fill="#5FA968"/>
+    <text x="-166" y="9" font-size="19" font-weight="700" fill="#FFFFFF">定样子</text>
+    <text x="-84" y="8" font-size="13.5" fill="#E7F3E9">"两百字以内""列成表格""语气轻松点"</text>
+  </g>
+
+  <text x="450" y="466" text-anchor="middle" font-size="13.5" fill="#9A8F80">原理回顾：你说的每个字都是接龙的路标——背景把一万条岔路收窄成一条</text>
+  <text x="450" y="504" text-anchor="middle" font-size="13.5" fill="#8A7F72">记不住？只记一句兜底："你需要知道什么？先问我。"</text>
+</svg>

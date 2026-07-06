@@ -1,0 +1,60 @@
+<svg viewBox="0 0 960 560" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="560" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">画面描述四要素</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 7-2 ｜ 说不清，就画不好——描述是方向盘</text>
+
+  <!-- 主体 -->
+  <rect x="70" y="100" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+  <circle cx="130" cy="150" r="26" fill="#FDEDE4"/>
+  <g transform="translate(130,152)">
+    <circle r="13" fill="#E8734A"/>
+    <path d="M -11 -8 l -5 -9 l 9 3 z M 11 -8 l 5 -9 l -9 3 z" fill="#E8734A"/>
+    <path d="M -5 12 a 9 6 0 0 0 10 0" stroke="#E8734A" stroke-width="2.5" fill="none"/>
+  </g>
+  <text x="176" y="142" font-size="17" font-weight="700" fill="#B4472A">主体：画什么</text>
+  <text x="176" y="170" font-size="12.5" fill="#8A7F72">"一只猫" 太笼统——</text>
+  <text x="176" y="194" font-size="12.5" fill="#8A7F72">"一只戴红围巾的橘猫坐在窗台上"</text>
+  <text x="96" y="236" font-size="12" fill="#B9AFA0">谁、在哪、在干什么</text>
+
+  <!-- 风格 -->
+  <rect x="490" y="100" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+  <g transform="translate(550,150)">
+    <circle r="26" fill="#F1ECF8"/>
+    <path d="M -12 8 a 14 14 0 0 1 24 -12 a 10 10 0 0 1 -4 18 q -6 2 -12 0 l -4 6 z" fill="#8B6FC0"/>
+    <circle cx="-2" cy="-4" r="2.6" fill="#FFFFFF"/><circle cx="7" cy="0" r="2.6" fill="#FFFFFF"/>
+  </g>
+  <text x="596" y="142" font-size="17" font-weight="700" fill="#8B6FC0">风格：什么画风</text>
+  <text x="596" y="170" font-size="12.5" fill="#8A7F72">儿童绘本 · 水彩 · 水墨 ·</text>
+  <text x="596" y="194" font-size="12.5" fill="#8A7F72">像素风 · "像照片一样真实"</text>
+  <text x="516" y="236" font-size="12" fill="#B9AFA0">不说，它就替你随机挑一种</text>
+
+  <!-- 细节 -->
+  <rect x="70" y="280" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(130,330)">
+    <circle r="26" fill="#EAF3FB"/>
+    <circle cx="-4" cy="-4" r="11" fill="none" stroke="#4A90D9" stroke-width="3.4"/>
+    <line x1="5" y1="5" x2="15" y2="15" stroke="#4A90D9" stroke-width="3.6" stroke-linecap="round"/>
+  </g>
+  <text x="176" y="322" font-size="17" font-weight="700" fill="#2C6E9E">细节：强调什么</text>
+  <text x="176" y="350" font-size="12.5" fill="#8A7F72">毛茸茸的 · 圆眼睛 ·</text>
+  <text x="176" y="374" font-size="12.5" fill="#8A7F72">爪子搭在窗沿上</text>
+  <text x="96" y="416" font-size="12" fill="#B9AFA0">挑两三个最要紧的，别堆砌</text>
+
+  <!-- 氛围 -->
+  <rect x="490" y="280" width="400" height="160" rx="18" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <g transform="translate(550,330)">
+    <circle r="26" fill="#FDF3DC"/>
+    <circle cx="-4" cy="2" r="11" fill="#F59E0B"/>
+    <path d="M -4 -12 v -6 M 7 -8 l 5 -5 M -15 -8 l -5 -5 M 10 2 h 7" stroke="#F2A65A" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="596" y="322" font-size="17" font-weight="700" fill="#B45309">氛围：光线与情绪</text>
+  <text x="596" y="350" font-size="12.5" fill="#8A7F72">冬日清晨的阳光 · 安静温暖</text>
+  <text x="596" y="374" font-size="12.5" fill="#8A7F72">（或：阴雨 · 热闹 · 神秘）</text>
+  <text x="516" y="416" font-size="12" fill="#B9AFA0">最能决定一张图的"味道"</text>
+
+  <!-- 组合例句 -->
+  <rect x="70" y="462" width="820" height="46" rx="23" fill="#FFF9EE" stroke="#D9A05B" stroke-width="2.5"/>
+  <text x="480" y="491" text-anchor="middle" font-size="13.5" fill="#3D3229">连起来："儿童绘本风格，一只戴红围巾的橘猫坐在窗台上，毛茸茸的，冬日清晨的阳光，安静温暖。"</text>
+
+  <text x="480" y="538" text-anchor="middle" font-size="13.5" fill="#9A8F80">改图＝改文章：不满意就说哪里——追问的手艺全通用</text>
+</svg>

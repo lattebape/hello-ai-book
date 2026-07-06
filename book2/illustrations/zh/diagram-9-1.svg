@@ -1,0 +1,46 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="520" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">你的场景卡片盒</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 9-1 ｜ 办成一件事，就存一张卡</text>
+
+  <!-- 卡片盒与散卡 -->
+  <g transform="translate(240,300)">
+    <g transform="translate(-58,-108) rotate(-10)">
+      <rect x="-42" y="-28" width="84" height="56" rx="6" fill="#EAF3FB" stroke="#4A90D9" stroke-width="2.5"/>
+      <path d="M -28 -10 h 56 M -28 4 h 40 M -28 18 h 48" stroke="#A9CBE8" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(50,-122) rotate(7)">
+      <rect x="-42" y="-28" width="84" height="56" rx="6" fill="#FDF3DC" stroke="#F59E0B" stroke-width="2.5"/>
+      <path d="M -28 -10 h 52 M -28 4 h 56 M -28 18 h 36" stroke="#F2C48A" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(-4,-84)">
+      <rect x="-42" y="-28" width="84" height="56" rx="6" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5"/>
+      <path d="M -28 -10 h 48 M -28 4 h 56 M -28 18 h 42" stroke="#9CC7A4" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <!-- 盒体 -->
+    <path d="M -120 -20 L 120 -20 L 104 96 L -104 96 Z" fill="#C98F4E"/>
+    <path d="M -120 -20 L -140 -44 L 140 -44 L 120 -20 Z" fill="#D9A05B"/>
+    <rect x="-70" y="16" width="140" height="40" rx="10" fill="#FFF7E6"/>
+    <text y="42" text-anchor="middle" font-size="16" font-weight="700" fill="#B45309">AI 卡片盒</text>
+  </g>
+
+  <!-- 放大的卡片模板 -->
+  <g transform="translate(650,268)">
+    <rect x="-180" y="-140" width="360" height="280" rx="18" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+    <path d="M -180 -92 h 360" stroke="#F1E7D6" stroke-width="2.5"/>
+    <text x="-156" y="-108" font-size="15" font-weight="700" fill="#B45309">场景</text>
+    <text x="-92" y="-108" font-size="13" fill="#8A7F72">给长辈写生日祝福</text>
+    <path d="M -180 8 h 360" stroke="#F1E7D6" stroke-width="2.5"/>
+    <text x="-156" y="-64" font-size="15" font-weight="700" fill="#2C6E9E">起手问法</text>
+    <text x="-156" y="-36" font-size="12" fill="#8A7F72">"帮我写一段给我爸六十大寿的祝福，</text>
+    <text x="-156" y="-14" font-size="12" fill="#8A7F72">他爱钓鱼、嘴硬心软，五十字，别用套话。"</text>
+    <text x="-156" y="36" font-size="15" font-weight="700" fill="#3E7D4B">注意事项</text>
+    <text x="-156" y="64" font-size="12" fill="#8A7F72">把不像自己会说的词换掉再发</text>
+    <circle cx="150" cy="-112" r="12" fill="#F59E0B"/>
+    <path d="M 144 -112 l 4 5 l 8 -10" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <text x="0" y="112" text-anchor="middle" font-size="11.5" fill="#B9AFA0">一张卡三行，够用</text>
+  </g>
+
+  <text x="450" y="452" text-anchor="middle" font-size="13" fill="#8A7F72">第一批底稿本册已备好：三类起步题 · 四张模板卡 · 代读三步 · 三句咒语</text>
+  <text x="450" y="490" text-anchor="middle" font-size="13.5" fill="#9A8F80">它长的是你的手感——半年之后，就是你独一份的"AI使用说明书"</text>
+</svg>

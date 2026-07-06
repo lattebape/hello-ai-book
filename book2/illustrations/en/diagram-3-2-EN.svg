@@ -1,0 +1,38 @@
+<svg viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="620" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Five Follow-Up Lines for 90% of Cases</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 3-2 | Copy them into your notes app</text>
+
+  <g>
+    <rect x="90" y="100" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+    <circle cx="140" cy="141" r="20" fill="#E8734A"/><text x="140" y="149" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="178" y="134" font-size="16" font-weight="700" fill="#B4472A">Say what's not working</text>
+    <text x="178" y="162" font-size="13" fill="#8A7F72">"Too long — cut it in half." "Good opening; the rest sounds like an ad."</text>
+  </g>
+  <g>
+    <rect x="90" y="196" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+    <circle cx="140" cy="237" r="20" fill="#F59E0B"/><text x="140" y="245" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="178" y="230" font-size="16" font-weight="700" fill="#B45309">Change the angle — three more</text>
+    <text x="178" y="258" font-size="13" fill="#8A7F72">"Too safe — three bolder ones." "Rethink it from a money-saving angle."</text>
+  </g>
+  <g>
+    <rect x="90" y="292" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+    <circle cx="140" cy="333" r="20" fill="#5FA968"/><text x="140" y="341" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="178" y="326" font-size="16" font-weight="700" fill="#3E7D4B">Simpler, with an example</text>
+    <text x="178" y="354" font-size="13" fill="#8A7F72">"Explain it like I've never heard of this." "Use an everyday analogy."</text>
+  </g>
+  <g>
+    <rect x="90" y="388" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+    <circle cx="140" cy="429" r="20" fill="#4A90D9"/><text x="140" y="437" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">4</text>
+    <text x="178" y="422" font-size="16" font-weight="700" fill="#2C6E9E">Switch roles and re-read it</text>
+    <text x="178" y="450" font-size="13" fill="#8A7F72">"Now you're a picky client — find the holes, then fix them."</text>
+  </g>
+  <g>
+    <rect x="90" y="484" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+    <circle cx="140" cy="525" r="20" fill="#8B6FC0"/><text x="140" y="533" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">5</text>
+    <text x="178" y="518" font-size="16" font-weight="700" fill="#8B6FC0">What else do you need?</text>
+    <text x="178" y="546" font-size="13" fill="#8A7F72">"To do this well, what do you still need from me? Ask first."</text>
+  </g>
+
+  <text x="450" y="600" text-anchor="middle" font-size="13.5" fill="#9A8F80">Bonus — give examples: paste one you love, say "match this flavor" — one good, one bad beats ten adjectives</text>
+</svg>

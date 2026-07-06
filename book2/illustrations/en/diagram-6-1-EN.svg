@@ -1,0 +1,53 @@
+<svg viewBox="0 0 960 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="520" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Three Magic Lines for Your Pocket Tutor</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 6-1 | A sparring partner, not a stand-in</text>
+
+  <!-- 卡1 讲给我听 -->
+  <rect x="60" y="104" width="256" height="336" rx="20" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(188,178)">
+    <circle r="36" fill="#EAF3FB" stroke="#4A90D9" stroke-width="3"/>
+    <line x1="0" y1="0" x2="18" y2="-20" stroke="#4A90D9" stroke-width="5" stroke-linecap="round"/>
+    <circle r="7" fill="#4A90D9"/>
+    <text x="-56" y="34" font-size="10" fill="#8A7F72">easy</text>
+    <text x="28" y="34" font-size="10" fill="#8A7F72">deep</text>
+  </g>
+  <text x="188" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#2C6E9E">1. Explain it to me</text>
+  <text x="188" y="298" text-anchor="middle" font-size="12.5" fill="#8A7F72">"Treat me as a total beginner —</text>
+  <text x="188" y="320" text-anchor="middle" font-size="12.5" fill="#8A7F72">no jargon, lots of analogies"</text>
+  <text x="188" y="354" text-anchor="middle" font-size="12.5" fill="#8A7F72">Got it? Turn the dial deeper;</text>
+  <text x="188" y="376" text-anchor="middle" font-size="12.5" fill="#8A7F72">lost? Try another analogy</text>
+  <text x="188" y="416" text-anchor="middle" font-size="12" fill="#B9AFA0">Thirty retellings, same patience</text>
+
+  <!-- 卡2 出题考我 -->
+  <rect x="352" y="104" width="256" height="336" rx="20" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <g transform="translate(480,178)">
+    <rect x="-28" y="-36" width="56" height="72" rx="6" fill="#FDF3DC" stroke="#F59E0B" stroke-width="3"/>
+    <path d="M -16 -20 h 32 M -16 -6 h 24 M -16 8 h 30" stroke="#F2C48A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="24" cy="26" r="13" fill="#5FA968"/>
+    <path d="M 18 26 l 4 5 l 8 -10" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="480" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#B45309">2. Quiz me</text>
+  <text x="480" y="298" text-anchor="middle" font-size="12.5" fill="#8A7F72">"Five questions, easy to hard;</text>
+  <text x="480" y="320" text-anchor="middle" font-size="12.5" fill="#8A7F72">grade each, explain my misses"</text>
+  <text x="480" y="354" text-anchor="middle" font-size="12.5" fill="#8A7F72">Level up: I explain, you probe</text>
+  <text x="480" y="376" text-anchor="middle" font-size="12.5" fill="#8A7F72">(the Feynman method)</text>
+  <text x="480" y="416" text-anchor="middle" font-size="12" fill="#B9AFA0">Where I stall = what I lack</text>
+
+  <!-- 卡3 陪我练 -->
+  <rect x="644" y="104" width="256" height="336" rx="20" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+  <g transform="translate(772,178)">
+    <rect x="-44" y="-30" width="52" height="34" rx="12" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5"/>
+    <path d="M -32 4 l -5 10 l 13 -6 z" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5" stroke-linejoin="round"/>
+    <rect x="-4" y="0" width="52" height="34" rx="12" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <path d="M 36 34 l 5 10 l -13 -6 z" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5" stroke-linejoin="round"/>
+  </g>
+  <text x="772" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#3E7D4B">3. Practice with me</text>
+  <text x="772" y="298" text-anchor="middle" font-size="12.5" fill="#8A7F72">Speaking practice · interviews</text>
+  <text x="772" y="320" text-anchor="middle" font-size="12.5" fill="#8A7F72">rehearsing hard conversations</text>
+  <text x="772" y="354" text-anchor="middle" font-size="12.5" fill="#8A7F72">"Play the other side — no mercy;</text>
+  <text x="772" y="376" text-anchor="middle" font-size="12.5" fill="#8A7F72">critique me after each answer"</text>
+  <text x="772" y="416" text-anchor="middle" font-size="12" fill="#B9AFA0">Never busy, bored, or mocking</text>
+
+  <text x="480" y="490" text-anchor="middle" font-size="13.5" fill="#9A8F80">Self-check: close the phone and explain it to someone — can't? Then it was a stand-in</text>
+</svg>

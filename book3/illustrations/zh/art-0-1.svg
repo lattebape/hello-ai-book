@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="480" fill="#FAF6EF"/>
+
+  <!-- 云 -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <ellipse cx="200" cy="100" rx="52" ry="20"/><ellipse cx="240" cy="92" rx="38" ry="16"/>
+    <ellipse cx="640" cy="70" rx="44" ry="17"/><ellipse cx="676" cy="64" rx="30" ry="13"/>
+  </g>
+  <circle cx="770" cy="110" r="42" fill="#F7C64B"/>
+  <circle cx="770" cy="110" r="58" fill="#FDEBC0" opacity="0.4"/>
+
+  <!-- 远景小城 -->
+  <g transform="translate(560,250)">
+    <rect x="-30" y="-46" width="34" height="46" rx="4" fill="#C9BCA6"/>
+    <rect x="10" y="-70" width="28" height="70" rx="4" fill="#B9AFA0"/>
+    <rect x="44" y="-38" width="30" height="38" rx="4" fill="#C9BCA6"/>
+    <rect x="80" y="-56" width="26" height="56" rx="4" fill="#DCD2C0"/>
+    <rect x="112" y="-30" width="24" height="30" rx="4" fill="#C9BCA6"/>
+    <g fill="#FFF7E6">
+      <rect x="-22" y="-36" width="7" height="7"/><rect x="-10" y="-36" width="7" height="7"/>
+      <rect x="16" y="-58" width="6" height="6"/><rect x="26" y="-58" width="6" height="6"/><rect x="16" y="-44" width="6" height="6"/>
+      <rect x="86" y="-46" width="6" height="6"/><rect x="96" y="-46" width="6" height="6"/>
+    </g>
+  </g>
+
+  <!-- 大地与山坡 -->
+  <path d="M 0 300 Q 300 240 560 268 Q 760 288 900 262 L 900 480 L 0 480 Z" fill="#F1E7D6"/>
+  <path d="M 0 400 Q 220 320 470 380 T 900 372 L 900 480 L 0 480 Z" fill="#EAE0CE"/>
+
+  <!-- 道路 -->
+  <path d="M 250 462 Q 330 380 470 330 Q 560 300 610 262" stroke="#F7EFE2" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <path d="M 262 452 Q 336 380 472 332 Q 556 302 604 266" stroke="#D9C9AC" stroke-width="4" fill="none" stroke-dasharray="12 12"/>
+
+  <!-- 小悠背影 -->
+  <g transform="translate(200,382)">
+    <rect x="-26" y="-58" width="52" height="66" rx="20" fill="#F7C64B"/>
+    <rect x="-20" y="6" width="16" height="34" rx="7" fill="#4C6FB0"/>
+    <rect x="6" y="6" width="16" height="34" rx="7" fill="#4C6FB0"/>
+    <ellipse cx="-12" cy="42" rx="12" ry="5" fill="#3D3229"/>
+    <ellipse cx="14" cy="42" rx="12" ry="5" fill="#3D3229"/>
+    <circle cy="-86" r="30" fill="#2E2A28"/>
+    <path d="M -30 -72 a 30 30 0 0 1 60 0" fill="#2E2A28"/>
+    <path d="M 26 -46 L 52 -66" stroke="#F7C64B" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="56" cy="-70" r="6.5" fill="#FFCFA8"/>
+  </g>
+
+  <!-- 泡泡背影 -->
+  <g transform="translate(300,352)">
+    <ellipse cx="0" cy="46" rx="36" ry="7" fill="#E4DACA" opacity="0.7"/>
+    <ellipse rx="33" ry="29" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <line y1="-29" y2="-42" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-47" r="5" fill="#F59E0B"/>
+    <circle cx="-37" cy="6" r="7" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <circle cx="37" cy="6" r="7" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+  </g>
+
+  <path d="M 110 180 l 5 -11 l 4 11 l 11 3 l -10 5 l -1 12 l -8 -9 l -12 2 l 7 -9 z" fill="#F7C64B" opacity="0.8"/>
+</svg>

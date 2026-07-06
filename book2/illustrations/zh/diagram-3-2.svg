@@ -1,0 +1,38 @@
+<svg viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="620" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">五个追问句式，覆盖九成场景</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 3-2 ｜ 抄进手机备忘录，随用随取</text>
+
+  <g>
+    <rect x="90" y="100" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+    <circle cx="140" cy="141" r="20" fill="#E8734A"/><text x="140" y="149" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="178" y="134" font-size="16" font-weight="700" fill="#B4472A">说出哪里不满意</text>
+    <text x="178" y="162" font-size="13" fill="#8A7F72">"太长了，砍到一半。" "开头挺好，后半段太像广告。"</text>
+  </g>
+  <g>
+    <rect x="90" y="196" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+    <circle cx="140" cy="237" r="20" fill="#F59E0B"/><text x="140" y="245" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="178" y="230" font-size="16" font-weight="700" fill="#B45309">换个角度，再来三个</text>
+    <text x="178" y="258" font-size="13" fill="#8A7F72">"这几个太常规了，来三个大胆点的。" "从省钱的角度重想一遍。"</text>
+  </g>
+  <g>
+    <rect x="90" y="292" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+    <circle cx="140" cy="333" r="20" fill="#5FA968"/><text x="140" y="341" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="178" y="326" font-size="16" font-weight="700" fill="#3E7D4B">讲简单点，举个例子</text>
+    <text x="178" y="354" font-size="13" fill="#8A7F72">"把我当成完全没接触过的人，重讲一遍。" "打个生活里的比方。"</text>
+  </g>
+  <g>
+    <rect x="90" y="388" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+    <circle cx="140" cy="429" r="20" fill="#4A90D9"/><text x="140" y="437" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">4</text>
+    <text x="178" y="422" font-size="16" font-weight="700" fill="#2C6E9E">换个身份，再看一遍</text>
+    <text x="178" y="450" font-size="13" fill="#8A7F72">"现在你是挑剔的客户，挑挑这份方案的毛病，然后改好。"</text>
+  </g>
+  <g>
+    <rect x="90" y="484" width="720" height="82" rx="16" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+    <circle cx="140" cy="525" r="20" fill="#8B6FC0"/><text x="140" y="533" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">5</text>
+    <text x="178" y="518" font-size="16" font-weight="700" fill="#8B6FC0">你还需要知道什么？</text>
+    <text x="178" y="546" font-size="13" fill="#8A7F72">"要把这件事做好，你还需要我提供什么信息？先问我。"</text>
+  </g>
+
+  <text x="450" y="600" text-anchor="middle" font-size="13.5" fill="#9A8F80">再加一招"给例子"：贴一段你喜欢的说"照这个味道来"——一正一反，胜过十个形容词</text>
+</svg>

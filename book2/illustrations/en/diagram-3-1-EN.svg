@@ -1,0 +1,55 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Not a Vending Machine — a Workbench</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 3-1 | The first answer is always just a draft</text>
+
+  <!-- 左：售货机 -->
+  <rect x="70" y="100" width="390" height="330" rx="20" fill="#FFFFFF" stroke="#C9BCA6" stroke-width="3"/>
+  <text x="265" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#8A7F72">Vending-machine mode</text>
+  <g transform="translate(200,270)">
+    <rect x="-56" y="-92" width="112" height="184" rx="12" fill="#8A7F72"/>
+    <rect x="-42" y="-78" width="60" height="104" rx="6" fill="#B9AFA0"/>
+    <rect x="-36" y="-70" width="20" height="26" rx="4" fill="#DCD2C0"/>
+    <rect x="-10" y="-70" width="20" height="26" rx="4" fill="#DCD2C0"/>
+    <rect x="-36" y="-38" width="20" height="26" rx="4" fill="#DCD2C0"/>
+    <rect x="-10" y="-38" width="20" height="26" rx="4" fill="#DCD2C0"/>
+    <rect x="26" y="-74" width="22" height="52" rx="6" fill="#6E655A"/>
+    <rect x="-42" y="42" width="84" height="30" rx="6" fill="#6E655A"/>
+  </g>
+  <g font-size="13" fill="#8A7F72" text-anchor="middle">
+    <text x="352" y="212">1. Insert question</text>
+    <text x="352" y="264">2. Answer drops out</text>
+    <text x="352" y="316">3. Walk away</text>
+  </g>
+  <path d="M 352 224 v 16 M 352 276 v 16" stroke="#C9BCA6" stroke-width="2.5" stroke-dasharray="5 5"/>
+  <text x="265" y="408" text-anchor="middle" font-size="13" fill="#B9AFA0">One-shot deal — bad goods, tough luck</text>
+
+  <!-- 右：工作台 -->
+  <rect x="500" y="100" width="390" height="330" rx="20" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3.5"/>
+  <text x="695" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#B45309">Workbench mode</text>
+  <g transform="translate(695,268)">
+    <rect x="-130" y="34" width="260" height="20" rx="8" fill="#C98F4E"/>
+    <rect x="-112" y="54" width="14" height="50" rx="6" fill="#B98449"/>
+    <rect x="98" y="54" width="14" height="50" rx="6" fill="#B98449"/>
+    <g transform="rotate(-5)">
+      <rect x="-64" y="-16" width="128" height="46" rx="6" fill="#FDF7EC" stroke="#E0D6C6" stroke-width="2.5"/>
+      <path d="M -48 -2 h 96 M -48 12 h 70" stroke="#DCD2C0" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(-104,-38) rotate(-30)">
+      <rect x="-5" y="-24" width="10" height="34" rx="4" fill="#C98F4E"/>
+      <rect x="-16" y="-36" width="32" height="14" rx="5" fill="#8A7F72"/>
+    </g>
+    <g transform="translate(104,-40) rotate(28)" stroke="#8A7F72" stroke-width="7" fill="none" stroke-linecap="round">
+      <path d="M 0 -14 a 11 11 0 1 0 11 11"/>
+      <line x1="6" y1="6" x2="20" y2="22"/>
+    </g>
+    <path d="M -60 -66 Q 0 -104 60 -66" stroke="#F59E0B" stroke-width="3.5" fill="none" stroke-dasharray="7 7"/>
+    <polygon points="64,-62 50,-64 58,-76" fill="#F59E0B"/>
+    <path d="M 60 -50 Q 0 -16 -60 -50" stroke="#F59E0B" stroke-width="3.5" fill="none" stroke-dasharray="7 7" opacity="0.55"/>
+    <polygon points="-64,-54 -50,-52 -58,-40" fill="#F59E0B" opacity="0.55"/>
+    <text y="-84" text-anchor="middle" font-size="13" fill="#B45309">ask → polish → polish again</text>
+  </g>
+  <text x="695" y="408" text-anchor="middle" font-size="13" fill="#B45309">A few rounds turn draft into finished — it never tires</text>
+
+  <text x="480" y="474" text-anchor="middle" font-size="13.5" fill="#9A8F80">The blocks set your start; the follow-ups set your finish</text>
+</svg>

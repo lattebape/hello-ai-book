@@ -1,0 +1,37 @@
+<svg viewBox="0 0 960 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="520" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">同一台机器，两种问法</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 2-2 ｜ 任务：向班主任请一天假</text>
+
+  <!-- 左卡：没搭积木 -->
+  <rect x="56" y="100" width="410" height="356" rx="20" fill="#FFFFFF" stroke="#C9BCA6" stroke-width="3"/>
+  <text x="261" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#8A7F72">积木没搭</text>
+  <rect x="88" y="162" width="270" height="44" rx="16" fill="#F1E7D6"/>
+  <text x="104" y="190" font-size="13.5" fill="#3D3229">"帮我写个请假条。"</text>
+  <rect x="130" y="226" width="304" height="150" rx="16" fill="#F7F3EA"/>
+  <text x="150" y="258" font-size="12.5" fill="#9A8F80">尊敬的领导：</text>
+  <text x="150" y="284" font-size="12.5" fill="#9A8F80">兹因本人有事，特向您请假一天，</text>
+  <text x="150" y="310" font-size="12.5" fill="#9A8F80">望批准为盼。此致敬礼……</text>
+  <text x="150" y="352" font-size="12" fill="#B9AFA0">（谁都能用，也谁用都不对味）</text>
+  <circle cx="261" cy="420" r="17" fill="#C9BCA6"/>
+  <path d="M 253 424 h 16" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="255" cy="415" r="2.4" fill="#FFFFFF"/><circle cx="267" cy="415" r="2.4" fill="#FFFFFF"/>
+
+  <!-- 右卡：四块齐全 -->
+  <rect x="494" y="100" width="410" height="356" rx="20" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3.5"/>
+  <text x="699" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#B45309">四块积木搭齐</text>
+  <rect x="526" y="162" width="346" height="112" rx="16" fill="#FDF3DC"/>
+  <text x="542" y="190" font-size="12" fill="#8B6FC0">你是一位会说话的家长。</text>
+  <text x="542" y="214" font-size="12" fill="#B45309">孩子明天陪爷爷复查，向王老师请一天假，</text>
+  <text x="542" y="238" font-size="12" fill="#2C6E9E">帮我写一条微信消息，</text>
+  <text x="542" y="262" font-size="12" fill="#3E7D4B">六十字以内，礼貌但别太客套。</text>
+  <rect x="568" y="294" width="304" height="112" rx="16" fill="#EAF4EB"/>
+  <text x="588" y="326" font-size="12.5" fill="#3D3229">王老师您好，明天想带孩子陪爷爷</text>
+  <text x="588" y="352" font-size="12.5" fill="#3D3229">去医院复查，需请假一天，请问要</text>
+  <text x="588" y="378" font-size="12.5" fill="#3D3229">补什么手续吗？给您添麻烦了。</text>
+  <circle cx="699" cy="428" r="17" fill="#5FA968"/>
+  <path d="M 691 424 q 8 10 16 0" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="693" cy="421" r="2.4" fill="#FFFFFF"/><circle cx="705" cy="421" r="2.4" fill="#FFFFFF"/>
+
+  <text x="480" y="496" text-anchor="middle" font-size="13.5" fill="#9A8F80">紫＝给身份 · 橙＝说背景 · 蓝＝派任务 · 绿＝定样子</text>
+</svg>

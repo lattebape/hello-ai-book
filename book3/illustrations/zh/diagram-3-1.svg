@@ -1,0 +1,51 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">给爸妈的三件套</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 3-1 ｜ 贴在手机壳背面的三句话</text>
+
+  <!-- 卡1 语音 -->
+  <rect x="60" y="104" width="256" height="316" rx="20" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+  <g transform="translate(188,180)">
+    <circle r="34" fill="#F1ECF8"/>
+    <rect x="-9" y="-20" width="18" height="26" rx="9" fill="#8B6FC0"/>
+    <path d="M -16 -2 a 16 16 0 0 0 32 0" stroke="#8B6FC0" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <line y1="14" y2="24" stroke="#8B6FC0" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="188" y="256" text-anchor="middle" font-size="17.5" font-weight="700" fill="#8B6FC0">① 按住话筒</text>
+  <text x="188" y="284" text-anchor="middle" font-size="17.5" font-weight="700" fill="#8B6FC0">说话就行</text>
+  <text x="188" y="326" text-anchor="middle" font-size="12.5" fill="#8A7F72">不用打字，想问什么</text>
+  <text x="188" y="348" text-anchor="middle" font-size="12.5" fill="#8A7F72">张嘴就问</text>
+  <text x="188" y="392" text-anchor="middle" font-size="12" fill="#B9AFA0">问一百遍，它也不烦</text>
+
+  <!-- 卡2 要钱先挂断 -->
+  <rect x="352" y="104" width="256" height="316" rx="20" fill="#FFFFFF" stroke="#E8734A" stroke-width="3.5"/>
+  <g transform="translate(480,180)">
+    <circle r="34" fill="#FDEDE4"/>
+    <g transform="rotate(135)">
+      <path d="M -16 -6 q 0 -12 12 -12 l 4 8 l -6 6 q 2 8 10 10 l 6 -6 l 8 4 q 0 12 -12 12 q -22 -2 -22 -22 z" fill="#E8734A"/>
+    </g>
+    <line x1="20" y1="-22" x2="34" y2="-36" stroke="#E8734A" stroke-width="4" stroke-linecap="round"/>
+    <line x1="34" y1="-22" x2="20" y2="-36" stroke="#E8734A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="480" y="256" text-anchor="middle" font-size="17.5" font-weight="700" fill="#B4472A">② 凡是要钱</text>
+  <text x="480" y="284" text-anchor="middle" font-size="17.5" font-weight="700" fill="#B4472A">先挂断，打给家人</text>
+  <text x="480" y="326" text-anchor="middle" font-size="12.5" fill="#8A7F72">声音再像、事情再急</text>
+  <text x="480" y="348" text-anchor="middle" font-size="12.5" fill="#8A7F72">也先挂——再对暗号</text>
+  <text x="480" y="392" text-anchor="middle" font-size="12" fill="#B9AFA0">真家人不怕你挂断</text>
+
+  <!-- 卡3 链接不点 -->
+  <rect x="644" y="104" width="256" height="316" rx="20" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(772,180)">
+    <circle r="34" fill="#EAF3FB"/>
+    <rect x="-22" y="-12" width="44" height="24" rx="12" fill="none" stroke="#4A90D9" stroke-width="4"/>
+    <line x1="-8" y1="0" x2="8" y2="0" stroke="#4A90D9" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-26" y1="22" x2="26" y2="-22" stroke="#E8734A" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="772" y="256" text-anchor="middle" font-size="17.5" font-weight="700" fill="#2C6E9E">③ 不明链接不点</text>
+  <text x="772" y="284" text-anchor="middle" font-size="17.5" font-weight="700" fill="#2C6E9E">先问家人</text>
+  <text x="772" y="326" text-anchor="middle" font-size="12.5" fill="#8A7F72">中奖、补贴、"官方通知"</text>
+  <text x="772" y="348" text-anchor="middle" font-size="12.5" fill="#8A7F72">都先放一放</text>
+  <text x="772" y="392" text-anchor="middle" font-size="12" fill="#B9AFA0">拿不准＝不点</text>
+
+  <text x="480" y="466" text-anchor="middle" font-size="13.5" fill="#9A8F80">第①张开路，第②③张守门——教会这三张卡，这一章就值回票价</text>
+</svg>

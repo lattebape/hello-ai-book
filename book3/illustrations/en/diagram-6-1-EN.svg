@@ -1,0 +1,74 @@
+<svg viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="640" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">The Four Big Arguments, on One Table</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 6-1 | Both sides have real reasons — that's what makes it hard</text>
+
+  <text x="256" y="112" text-anchor="middle" font-size="13.5" font-weight="700" fill="#8A7F72">One side's case</text>
+  <text x="704" y="112" text-anchor="middle" font-size="13.5" font-weight="700" fill="#8A7F72">The other side's case</text>
+
+  <!-- 行1 版权 -->
+  <g>
+    <rect x="72" y="128" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="160" font-size="13" font-weight="700" fill="#B4472A">Creators:</text>
+    <text x="92" y="184" font-size="12" fill="#8A7F72">Our work trained it without consent — then it</text>
+    <text x="92" y="206" font-size="12" fill="#8A7F72">competes with us. License it; share the money</text>
+    <rect x="520" y="128" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="160" font-size="13" font-weight="700" fill="#2C6E9E">AI firms & some scholars:</text>
+    <text x="540" y="184" font-size="12" fill="#8A7F72">Learning public works is like human reading;</text>
+    <text x="540" y="206" font-size="12" fill="#8A7F72">per-item licensing would strangle the tech</text>
+    <g transform="translate(480,176)">
+      <rect x="-52" y="-18" width="104" height="36" rx="10" fill="#F59E0B"/>
+      <text y="6" text-anchor="middle" font-size="13" font-weight="800" fill="#FFFFFF">Copyright</text>
+    </g>
+  </g>
+
+  <!-- 行2 隐私 -->
+  <g>
+    <rect x="72" y="248" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="280" font-size="13" font-weight="700" fill="#B4472A">Worried users:</text>
+    <text x="92" y="304" font-size="12" fill="#8A7F72">Are our chats, photos, movements the feed?</text>
+    <text x="92" y="326" font-size="12" fill="#8A7F72">We want to know, refuse, and delete</text>
+    <rect x="520" y="248" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="280" font-size="13" font-weight="700" fill="#2C6E9E">The industry:</text>
+    <text x="540" y="304" font-size="12" fill="#8A7F72">Data is how services improve; it's anonymized;</text>
+    <text x="540" y="326" font-size="12" fill="#8A7F72">lock it down and products stop improving</text>
+    <g transform="translate(480,296)">
+      <rect x="-44" y="-18" width="88" height="36" rx="10" fill="#8B6FC0"/>
+      <text y="6" text-anchor="middle" font-size="13" font-weight="800" fill="#FFFFFF">Privacy</text>
+    </g>
+  </g>
+
+  <!-- 行3 就业 -->
+  <g>
+    <rect x="72" y="368" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="400" font-size="13" font-weight="700" fill="#B4472A">The worried side:</text>
+    <text x="92" y="424" font-size="12" fill="#8A7F72">"Reshuffle" lands on a person as a lost job;</text>
+    <text x="92" y="446" font-size="12" fill="#8A7F72">fund retraining and floors — don't bill individuals</text>
+    <rect x="520" y="368" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="400" font-size="13" font-weight="700" fill="#2C6E9E">The optimistic side:</text>
+    <text x="540" y="424" font-size="12" fill="#8A7F72">Every tech revolution created more jobs than it cut;</text>
+    <text x="540" y="446" font-size="12" fill="#8A7F72">overprotecting old jobs slows the birth of new ones</text>
+    <g transform="translate(480,416)">
+      <rect x="-32" y="-18" width="64" height="36" rx="10" fill="#5FA968"/>
+      <text y="6" text-anchor="middle" font-size="13.5" font-weight="800" fill="#FFFFFF">Jobs</text>
+    </g>
+  </g>
+
+  <!-- 行4 监管 -->
+  <g>
+    <rect x="72" y="488" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="520" font-size="13" font-weight="700" fill="#B4472A">For strict rules:</text>
+    <text x="92" y="544" font-size="12" fill="#8A7F72">More power, more risk — brakes before the road,</text>
+    <text x="92" y="566" font-size="12" fill="#8A7F72">not after the crash</text>
+    <rect x="520" y="488" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="520" font-size="13" font-weight="700" fill="#2C6E9E">For a light touch:</text>
+    <text x="540" y="544" font-size="12" fill="#8A7F72">Rules too early drive innovation elsewhere; strict</text>
+    <text x="540" y="566" font-size="12" fill="#8A7F72">rules bind the compliant, not the rule-breakers</text>
+    <g transform="translate(480,536)">
+      <rect x="-32" y="-18" width="64" height="36" rx="10" fill="#E8734A"/>
+      <text y="6" text-anchor="middle" font-size="13.5" font-weight="800" fill="#FFFFFF">Rules</text>
+    </g>
+  </g>
+
+  <text x="480" y="618" text-anchor="middle" font-size="13" fill="#9A8F80">Beware any one-sentence answer — hear both sides, then decide for yourself</text>
+</svg>

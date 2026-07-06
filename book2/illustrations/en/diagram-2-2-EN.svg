@@ -1,0 +1,37 @@
+<svg viewBox="0 0 960 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="520" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Same Machine, Two Ways of Asking</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 2-2 | Task: ask the teacher for a day off</text>
+
+  <!-- 左卡：没搭积木 -->
+  <rect x="56" y="100" width="410" height="356" rx="20" fill="#FFFFFF" stroke="#C9BCA6" stroke-width="3"/>
+  <text x="261" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#8A7F72">No blocks</text>
+  <rect x="88" y="162" width="270" height="44" rx="16" fill="#F1E7D6"/>
+  <text x="104" y="190" font-size="13.5" fill="#3D3229">"Write me an absence note."</text>
+  <rect x="130" y="226" width="304" height="150" rx="16" fill="#F7F3EA"/>
+  <text x="150" y="258" font-size="12.5" fill="#9A8F80">Dear Sir or Madam:</text>
+  <text x="150" y="284" font-size="12.5" fill="#9A8F80">I hereby request one day of leave</text>
+  <text x="150" y="310" font-size="12.5" fill="#9A8F80">for personal reasons. Respectfully...</text>
+  <text x="150" y="352" font-size="12" fill="#B9AFA0">(Fits everyone, sounds like no one)</text>
+  <circle cx="261" cy="420" r="17" fill="#C9BCA6"/>
+  <path d="M 253 424 h 16" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="255" cy="415" r="2.4" fill="#FFFFFF"/><circle cx="267" cy="415" r="2.4" fill="#FFFFFF"/>
+
+  <!-- 右卡：四块齐全 -->
+  <rect x="494" y="100" width="410" height="356" rx="20" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3.5"/>
+  <text x="699" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#B45309">All four blocks in</text>
+  <rect x="526" y="162" width="346" height="112" rx="16" fill="#FDF3DC"/>
+  <text x="542" y="190" font-size="12" fill="#8B6FC0">You're a tactful parent.</text>
+  <text x="542" y="214" font-size="12" fill="#B45309">Kid joins Grandpa's checkup tomorrow — ask</text>
+  <text x="542" y="238" font-size="12" fill="#2C6E9E">Ms. Wang for a day off, as a short text,</text>
+  <text x="542" y="262" font-size="12" fill="#3E7D4B">under 40 words, polite but not stiff.</text>
+  <rect x="568" y="294" width="304" height="112" rx="16" fill="#EAF4EB"/>
+  <text x="588" y="326" font-size="12.5" fill="#3D3229">Hi Ms. Wang — my son will join his</text>
+  <text x="588" y="352" font-size="12.5" fill="#3D3229">grandpa's checkup tomorrow, so one day</text>
+  <text x="588" y="378" font-size="12.5" fill="#3D3229">off please. Any forms needed? Thanks!</text>
+  <circle cx="699" cy="428" r="17" fill="#5FA968"/>
+  <path d="M 691 424 q 8 10 16 0" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="693" cy="421" r="2.4" fill="#FFFFFF"/><circle cx="705" cy="421" r="2.4" fill="#FFFFFF"/>
+
+  <text x="480" y="496" text-anchor="middle" font-size="13.5" fill="#9A8F80">Purple = role · Orange = context · Blue = task · Green = format</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="640" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">四大争论，一张桌摆开</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 6-1 ｜ 双方都有真实的道理——这正是它难的地方</text>
+
+  <text x="256" y="112" text-anchor="middle" font-size="13.5" font-weight="700" fill="#8A7F72">一方的理由</text>
+  <text x="704" y="112" text-anchor="middle" font-size="13.5" font-weight="700" fill="#8A7F72">另一方的理由</text>
+
+  <!-- 行1 版权 -->
+  <g>
+    <rect x="72" y="128" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="160" font-size="13" font-weight="700" fill="#B4472A">创作者：</text>
+    <text x="92" y="184" font-size="12" fill="#8A7F72">作品被拿去训练没打招呼，学成还抢生意</text>
+    <text x="92" y="206" font-size="12" fill="#8A7F72">——该授权、该分钱</text>
+    <rect x="520" y="128" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="160" font-size="13" font-weight="700" fill="#2C6E9E">AI公司与部分学者：</text>
+    <text x="540" y="184" font-size="12" fill="#8A7F72">学公开作品如同人类临摹读书；逐一授权，</text>
+    <text x="540" y="206" font-size="12" fill="#8A7F72">技术无法起步，好处谁也享不到</text>
+    <g transform="translate(480,176)">
+      <rect x="-32" y="-18" width="64" height="36" rx="10" fill="#F59E0B"/>
+      <text y="7" text-anchor="middle" font-size="14.5" font-weight="800" fill="#FFFFFF">版权</text>
+    </g>
+  </g>
+
+  <!-- 行2 隐私 -->
+  <g>
+    <rect x="72" y="248" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="280" font-size="13" font-weight="700" fill="#B4472A">担忧的用户：</text>
+    <text x="92" y="304" font-size="12" fill="#8A7F72">聊天照片行踪是不是成了饲料？</text>
+    <text x="92" y="326" font-size="12" fill="#8A7F72">要知情权、拒绝权、删除权</text>
+    <rect x="520" y="248" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="280" font-size="13" font-weight="700" fill="#2C6E9E">行业：</text>
+    <text x="540" y="304" font-size="12" fill="#8A7F72">数据是改进服务的必需，已做匿名脱敏；</text>
+    <text x="540" y="326" font-size="12" fill="#8A7F72">数据管死，产品没法变好</text>
+    <g transform="translate(480,296)">
+      <rect x="-32" y="-18" width="64" height="36" rx="10" fill="#8B6FC0"/>
+      <text y="7" text-anchor="middle" font-size="14.5" font-weight="800" fill="#FFFFFF">隐私</text>
+    </g>
+  </g>
+
+  <!-- 行3 就业 -->
+  <g>
+    <rect x="72" y="368" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="400" font-size="13" font-weight="700" fill="#B4472A">忧心的一方：</text>
+    <text x="92" y="424" font-size="12" fill="#8A7F72">"重组"落到个人头上就是失业；</text>
+    <text x="92" y="446" font-size="12" fill="#8A7F72">要再培训、要兜底，别让个人独自买单</text>
+    <rect x="520" y="368" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="400" font-size="13" font-weight="700" fill="#2C6E9E">乐观的一方：</text>
+    <text x="540" y="424" font-size="12" fill="#8A7F72">历次技术革命创造的岗位多于消灭的；</text>
+    <text x="540" y="446" font-size="12" fill="#8A7F72">过度保护旧岗位，拖慢新岗位诞生</text>
+    <g transform="translate(480,416)">
+      <rect x="-32" y="-18" width="64" height="36" rx="10" fill="#5FA968"/>
+      <text y="7" text-anchor="middle" font-size="14.5" font-weight="800" fill="#FFFFFF">就业</text>
+    </g>
+  </g>
+
+  <!-- 行4 监管 -->
+  <g>
+    <rect x="72" y="488" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#E8734A" stroke-width="2.5"/>
+    <text x="92" y="520" font-size="13" font-weight="700" fill="#B4472A">主张管严：</text>
+    <text x="92" y="544" font-size="12" fill="#8A7F72">能力越大风险越大，车先有刹车再上路，</text>
+    <text x="92" y="566" font-size="12" fill="#8A7F72">别等大事故再补规则</text>
+    <rect x="520" y="488" width="368" height="96" rx="14" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <text x="540" y="520" font-size="13" font-weight="700" fill="#2C6E9E">主张宽松：</text>
+    <text x="540" y="544" font-size="12" fill="#8A7F72">规矩太早太死，创新搬去别处；严规常常</text>
+    <text x="540" y="566" font-size="12" fill="#8A7F72">管住守规矩的，管不住不守的</text>
+    <g transform="translate(480,536)">
+      <rect x="-32" y="-18" width="64" height="36" rx="10" fill="#E8734A"/>
+      <text y="7" text-anchor="middle" font-size="14.5" font-weight="800" fill="#FFFFFF">监管</text>
+    </g>
+  </g>
+
+  <text x="480" y="618" text-anchor="middle" font-size="13" fill="#9A8F80">警惕任何"一句话讲清"的答案——听完双方，结论自己下</text>
+</svg>

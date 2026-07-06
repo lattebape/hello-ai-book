@@ -1,0 +1,45 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="560" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">不喂清单：三类东西不上桌</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 8-1 ｜ 信息一旦发出，就离开了你的掌控</text>
+
+  <rect x="110" y="96" width="680" height="360" rx="22" fill="#FFFFFF" stroke="#E8734A" stroke-width="4"/>
+
+  <!-- 第一类 -->
+  <g transform="translate(0,0)">
+    <circle cx="186" cy="168" r="30" fill="#FDEDE4"/>
+    <rect x="170" y="154" width="32" height="22" rx="4" fill="#E8734A"/>
+    <rect x="170" y="160" width="32" height="6" fill="#B4472A"/>
+    <circle cx="196" cy="172" r="3.4" fill="#FFF3D6"/>
+    <text x="240" y="158" font-size="17" font-weight="700" fill="#B4472A">① 身份与钱包</text>
+    <text x="240" y="186" font-size="13" fill="#8A7F72">证件号 · 银行卡号 · 密码 · 验证码</text>
+    <text x="240" y="210" font-size="12" fill="#B9AFA0">验证码尤其：任何场景都不该告诉任何"人"</text>
+  </g>
+  <line x1="140" y1="234" x2="760" y2="234" stroke="#F4D9CC" stroke-width="2"/>
+
+  <!-- 第二类 -->
+  <g>
+    <circle cx="186" cy="288" r="30" fill="#FDEDE4"/>
+    <rect x="172" y="272" width="28" height="32" rx="4" fill="#E8734A"/>
+    <path d="M 178 282 h 16 M 178 290 h 16 M 178 298 h 10" stroke="#FFF3D6" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="240" y="278" font-size="17" font-weight="700" fill="#B4472A">② 公司的东西</text>
+    <text x="240" y="306" font-size="13" fill="#8A7F72">内部数据 · 客户资料 · 没公开的计划</text>
+    <text x="240" y="330" font-size="12" fill="#B9AFA0">拿不准的先脱敏："某客户""X 万"——或干脆不发</text>
+  </g>
+  <line x1="140" y1="354" x2="760" y2="354" stroke="#F4D9CC" stroke-width="2"/>
+
+  <!-- 第三类 -->
+  <g>
+    <circle cx="186" cy="408" r="30" fill="#FDEDE4"/>
+    <circle cx="178" cy="400" r="9" fill="#E8734A"/>
+    <path d="M 164 424 a 14 12 0 0 1 28 0 z" fill="#E8734A"/>
+    <circle cx="200" cy="404" r="7" fill="#F2A65A"/>
+    <path d="M 189 424 a 11 10 0 0 1 22 0 z" fill="#F2A65A"/>
+    <text x="240" y="398" font-size="17" font-weight="700" fill="#B4472A">③ 别人的隐私</text>
+    <text x="240" y="426" font-size="13" fill="#8A7F72">朋友的病情 · 同事的纠纷 · 家人的秘密</text>
+    <text x="240" y="450" font-size="12" fill="#B9AFA0">你有权处置自己的信息，没权替别人做主</text>
+  </g>
+
+  <rect x="150" y="482" width="600" height="48" rx="24" fill="#FDF3DC" stroke="#F59E0B" stroke-width="2.5"/>
+  <text x="450" y="512" text-anchor="middle" font-size="15" font-weight="700" fill="#B45309">万能自测：这句话，敢不敢贴到小区公告栏上？</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="480" fill="#FAF6EF"/>
+  <ellipse cx="450" cy="440" rx="380" ry="24" fill="#F1E7D6"/>
+
+  <!-- 门与洒出的光 -->
+  <g transform="translate(560,100)">
+    <path d="M -40 340 L -320 340 L -180 20 L -40 -12 Z" fill="#FFF3D6" opacity="0.8"/>
+    <path d="M -40 340 L -420 340 L -240 120 L -40 60 Z" fill="#FFF3D6" opacity="0.35"/>
+    <rect x="-56" y="-26" width="216" height="368" rx="10" fill="#B98449"/>
+    <g transform="rotate(-14) translate(-36,0)">
+      <rect x="0" y="-14" width="150" height="356" rx="8" fill="#C98F4E"/>
+      <rect x="16" y="10" width="118" height="120" rx="8" fill="#D9A05B"/>
+      <rect x="16" y="150" width="118" height="150" rx="8" fill="#D9A05B"/>
+      <circle cx="138" cy="200" r="9" fill="#F7C64B"/>
+      <rect x="42" y="42" width="66" height="52" rx="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+      <text x="75" y="80" text-anchor="middle" font-size="32" font-weight="800" fill="#E8905A">2</text>
+    </g>
+  </g>
+
+  <!-- 泡泡：已进门回身招手 -->
+  <g transform="translate(660,270)">
+    <ellipse rx="36" ry="32" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="22" ry="16" fill="#CFE9F8"/>
+    <path d="M -12 -5 q 4 -5 8 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 4 -5 q 4 -5 8 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -4 4 q 4 4 9 0" stroke="#2C6E9E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <line y1="-32" y2="-45" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-50" r="5" fill="#F59E0B"/>
+    <circle cx="-42" cy="-24" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <circle cx="38" cy="6" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+  </g>
+
+  <!-- 小悠：推门回望，手拿清单 -->
+  <g transform="translate(330,416)">
+    <ellipse cx="-11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <ellipse cx="11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <rect x="-18" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="3" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="-28" y="-138" width="56" height="84" rx="24" fill="#F7C64B"/>
+    <path d="M 28 -122 L 78 -134" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="84" cy="-136" r="7.5" fill="#FFCFA8"/>
+    <path d="M -28 -120 L -64 -100" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="-70" cy="-97" r="7.5" fill="#FFCFA8"/>
+    <g transform="translate(-92,-108) rotate(-10)">
+      <rect x="-20" y="-26" width="40" height="52" rx="5" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+      <path d="M -10 -12 h 20 M -10 0 h 16 M -10 12 h 20" stroke="#DCD2C0" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <circle cy="-172" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -172 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <path d="M -16 -164 q 5 -4 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M 7 -164 q 5 -4 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M -9 -153 q 9 8 18 0" stroke="#2E2A28" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+    <ellipse cx="22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.55"/>
+  </g>
+  <path d="M 180 150 l 5 -11 l 4 11 l 11 3 l -10 5 l -1 12 l -8 -9 l -12 2 l 7 -9 z" fill="#F7C64B" opacity="0.9"/>
+  <path d="M 810 120 l 4 -9 l 3 9 l 9 2 l -8 4 l -1 10 l -6 -7 l -10 1 l 6 -7 z" fill="#F2A65A" opacity="0.8"/>
+</svg>

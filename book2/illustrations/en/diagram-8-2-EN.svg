@@ -1,0 +1,45 @@
+<svg viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="540" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Three Steps to Beat the Impostor Call</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 8-2 | The voice sounds real; the story is fake</text>
+
+  <!-- 左：可疑来电 -->
+  <g transform="translate(190,240)">
+    <rect x="-70" y="-110" width="140" height="220" rx="22" fill="#3D3229"/>
+    <rect x="-60" y="-100" width="120" height="200" rx="14" fill="#FDEDE4"/>
+    <circle cy="-46" r="26" fill="#E8734A"/>
+    <text y="-38" text-anchor="middle" font-size="24" font-weight="800" fill="#FFFFFF">?</text>
+    <text y="8" text-anchor="middle" font-size="12.5" font-weight="700" fill="#B4472A">"It's me! Trouble —</text>
+    <text y="30" text-anchor="middle" font-size="12.5" font-weight="700" fill="#B4472A">send money, quick!"</text>
+    <circle cx="-28" cy="72" r="15" fill="#5FA968"/>
+    <path d="M -33 70 q 5 6 10 4" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="28" cy="72" r="15" fill="#E8734A"/>
+    <path d="M 22 66 l 12 12 M 34 66 l -12 12" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <rect x="96" y="380" width="190" height="36" rx="18" fill="#FDEDE4" stroke="#E8734A" stroke-width="2.5"/>
+  <text x="191" y="403" text-anchor="middle" font-size="11" font-weight="700" fill="#B4472A">Voices clone in seconds</text>
+
+  <!-- 三步 -->
+  <g transform="translate(0,0)">
+    <rect x="360" y="110" width="540" height="86" rx="16" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+    <circle cx="408" cy="153" r="22" fill="#E8734A"/><text x="408" y="161" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="446" y="146" font-size="16.5" font-weight="700" fill="#B4472A">Hang up</text>
+    <text x="446" y="174" font-size="12.5" fill="#8A7F72">However urgent, hang up first — family won't mind; scammers will</text>
+
+    <rect x="360" y="212" width="540" height="86" rx="16" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+    <circle cx="408" cy="255" r="22" fill="#F59E0B"/><text x="408" y="263" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="446" y="248" font-size="16.5" font-weight="700" fill="#B45309">Call back</text>
+    <text x="446" y="276" font-size="12.5" fill="#8A7F72">Dial the number saved in your contacts — not the one that called</text>
+
+    <rect x="360" y="314" width="540" height="86" rx="16" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+    <circle cx="408" cy="357" r="22" fill="#5FA968"/><text x="408" y="365" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="446" y="350" font-size="16.5" font-weight="700" fill="#3E7D4B">Code word</text>
+    <text x="446" y="378" font-size="12.5" fill="#8A7F72">"What was my childhood dog's name?" — family knows; actors don't</text>
+  </g>
+
+  <rect x="360" y="424" width="540" height="52" rx="20" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5"/>
+  <text x="630" y="450" text-anchor="middle" font-size="13.5" font-weight="700" fill="#3E7D4B">Code word = a fact only family knows, unfindable online</text>
+  <text x="630" y="469" text-anchor="middle" font-size="11.5" fill="#8A7F72">Only works if agreed in advance — set it tonight</text>
+
+  <text x="480" y="518" text-anchor="middle" font-size="13.5" fill="#9A8F80">Teach these steps to the elders in your family — they're the prime target</text>
+</svg>

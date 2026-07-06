@@ -1,0 +1,45 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">三问核验法</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 4-1 ｜ 三问过不了一问，就先别转发</text>
+
+  <!-- 卡1 来源 -->
+  <rect x="60" y="104" width="256" height="310" rx="20" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(188,180)">
+    <circle r="34" fill="#EAF3FB"/>
+    <circle cx="-3" cy="-4" r="13" fill="none" stroke="#4A90D9" stroke-width="4.2"/>
+    <line x1="7" y1="7" x2="20" y2="20" stroke="#4A90D9" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+  <text x="188" y="256" text-anchor="middle" font-size="18" font-weight="700" fill="#2C6E9E">① 来源是谁？</text>
+  <text x="188" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">正规媒体、官方账号，</text>
+  <text x="188" y="318" text-anchor="middle" font-size="12.5" fill="#8A7F72">还是昨天才注册的三无号？</text>
+  <text x="188" y="376" text-anchor="middle" font-size="12" fill="#B9AFA0">消息会说谎，来源的底细不太会</text>
+
+  <!-- 卡2 孤证 -->
+  <rect x="352" y="104" width="256" height="310" rx="20" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <g transform="translate(480,180)">
+    <circle r="34" fill="#FDF3DC"/>
+    <rect x="-24" y="-14" width="20" height="26" rx="3" fill="#F59E0B"/>
+    <rect x="0" y="-18" width="20" height="30" rx="3" fill="#F2C48A"/>
+    <path d="M -20 -6 h 12 M -20 0 h 12 M 4 -10 h 12 M 4 -4 h 12 M 4 2 h 12" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+    <text x="0" y="28" text-anchor="middle" font-size="14" font-weight="800" fill="#B45309">×N?</text>
+  </g>
+  <text x="480" y="256" text-anchor="middle" font-size="18" font-weight="700" fill="#B45309">② 其他家说了吗？</text>
+  <text x="480" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">真正的大事不会只有一家在报，</text>
+  <text x="480" y="318" text-anchor="middle" font-size="12.5" fill="#8A7F72">搜一下——全网孤证＝存疑</text>
+  <text x="480" y="376" text-anchor="middle" font-size="12" fill="#B9AFA0">放一放，等第二个来源</text>
+
+  <!-- 卡3 情绪 -->
+  <rect x="644" y="104" width="256" height="310" rx="20" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+  <g transform="translate(772,180)">
+    <circle r="34" fill="#FDEDE4"/>
+    <path d="M -4 -24 q 14 8 8 22 q 12 -2 12 12 a 16 16 0 0 1 -32 4 a 14 18 0 0 1 4 -30 q 4 -5 8 -8 z" fill="#E8734A"/>
+    <path d="M -2 6 a 8 8 0 0 0 12 6" stroke="#FFF3D6" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="772" y="256" text-anchor="middle" font-size="18" font-weight="700" fill="#B4472A">③ 情绪太对味？</text>
+  <text x="772" y="296" text-anchor="middle" font-size="12.5" fill="#8A7F72">越让你愤怒、恐惧、上头的，</text>
+  <text x="772" y="318" text-anchor="middle" font-size="12.5" fill="#8A7F72">越要慢半拍</text>
+  <text x="772" y="376" text-anchor="middle" font-size="12" fill="#B9AFA0">真消息不怕你冷静</text>
+
+  <text x="480" y="464" text-anchor="middle" font-size="13.5" fill="#9A8F80">两个习惯打底：转发前等十分钟；重要的事，走官方渠道升级核查</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="520" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="900" height="400" fill="#FBEEDD"/>
+  <rect x="0" y="0" width="900" height="260" fill="#FAF0E2"/>
+  <circle cx="450" cy="400" r="230" fill="#FDE4C8" opacity="0.55"/>
+  <circle cx="450" cy="400" r="150" fill="#FDDDB8" opacity="0.5"/>
+
+  <!-- 星星 -->
+  <path d="M 160 110 l 6 -13 l 5 13 l 14 3 l -11 8 l -1 14 l -10 -9 l -13 3 l 7 -12 z" fill="#F7C64B"/>
+  <path d="M 740 90 l 5 -11 l 4 11 l 11 3 l -10 5 l -1 12 l -8 -9 l -12 2 l 7 -9 z" fill="#F2A65A"/>
+  <circle cx="270" cy="70" r="4" fill="#F7C64B"/>
+  <circle cx="640" cy="150" r="3.5" fill="#F2A65A"/>
+  <circle cx="820" cy="200" r="3" fill="#F7C64B"/>
+
+  <!-- 地面与远去的路 -->
+  <path d="M 0 400 Q 450 360 900 400 L 900 520 L 0 520 Z" fill="#F1E7D6"/>
+  <path d="M 410 520 L 440 402 L 460 402 L 490 520 Z" fill="#F7EFE2"/>
+  <path d="M 450 512 v -20 M 450 478 v -18 M 450 448 v -14 M 450 422 v -10" stroke="#D9C9AC" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- 小悠：正面用力挥手 -->
+  <g transform="translate(370,438)">
+    <ellipse cx="-11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <ellipse cx="11" cy="0" rx="13" ry="6" fill="#3D3229"/>
+    <rect x="-18" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="3" y="-62" width="15" height="60" rx="7" fill="#4C6FB0"/>
+    <rect x="-28" y="-138" width="56" height="84" rx="24" fill="#F7C64B"/>
+    <path d="M 28 -122 L 74 -170" stroke="#F7C64B" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="80" cy="-176" r="8" fill="#FFCFA8"/>
+    <path d="M 92 -188 q 8 6 8 16 M 96 -172 q 6 6 4 14" stroke="#C9BCA6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <rect x="-42" y="-130" width="14" height="54" rx="7" fill="#F7C64B"/>
+    <circle cx="-35" cy="-72" r="7" fill="#FFCFA8"/>
+    <circle cy="-172" r="34" fill="#FFCFA8"/>
+    <path d="M -34 -172 a 34 34 0 0 1 68 0 l 0 8 q -8 -8 -16 -4 q -8 -9 -18 -3 q -10 -8 -18 2 q -8 -5 -16 5 z" fill="#2E2A28"/>
+    <path d="M -16 -164 q 5 -4 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M 7 -164 q 5 -4 9 0" stroke="#2E2A28" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M -10 -152 q 10 9 20 0" stroke="#2E2A28" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.6"/>
+    <ellipse cx="22" cy="-155" rx="5" ry="3.4" fill="#F7A98C" opacity="0.6"/>
+  </g>
+
+  <!-- 泡泡：正面挥手 -->
+  <g transform="translate(530,352)">
+    <ellipse cx="0" cy="98" rx="42" ry="8" fill="#E4DACA" opacity="0.8"/>
+    <ellipse rx="38" ry="34" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+    <ellipse cy="-2" rx="24" ry="17" fill="#CFE9F8"/>
+    <path d="M -13 -6 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M 4 -6 q 4.5 -5 9 0" stroke="#2C6E9E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M -6 4 q 6 5 12 0" stroke="#2C6E9E" stroke-width="2.3" fill="none" stroke-linecap="round"/>
+    <line y1="-34" y2="-48" stroke="#B9AFA0" stroke-width="3" stroke-linecap="round"/>
+    <circle cy="-53" r="5.5" fill="#F59E0B"/>
+    <g transform="translate(44,-30)">
+      <circle r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+      <path d="M 12 -14 q 8 5 8 14 M 16 2 q 6 5 5 12" stroke="#C9BCA6" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    </g>
+    <circle cx="-42" cy="10" r="8" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="2.5"/>
+  </g>
+</svg>

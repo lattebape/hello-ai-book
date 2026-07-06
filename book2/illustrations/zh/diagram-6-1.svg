@@ -1,0 +1,53 @@
+<svg viewBox="0 0 960 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="520" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">随身家教的三句咒语</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">示意图 6-1 ｜ 陪练，不代练</text>
+
+  <!-- 卡1 讲给我听 -->
+  <rect x="60" y="104" width="256" height="336" rx="20" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(188,178)">
+    <circle r="36" fill="#EAF3FB" stroke="#4A90D9" stroke-width="3"/>
+    <line x1="0" y1="0" x2="18" y2="-20" stroke="#4A90D9" stroke-width="5" stroke-linecap="round"/>
+    <circle r="7" fill="#4A90D9"/>
+    <text x="-42" y="34" font-size="10" fill="#8A7F72">浅</text>
+    <text x="36" y="34" font-size="10" fill="#8A7F72">深</text>
+  </g>
+  <text x="188" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#2C6E9E">① 讲给我听</text>
+  <text x="188" y="298" text-anchor="middle" font-size="12.5" fill="#8A7F72">"把我当完全没接触过的人，</text>
+  <text x="188" y="320" text-anchor="middle" font-size="12.5" fill="#8A7F72">不许用术语，多打比方"</text>
+  <text x="188" y="354" text-anchor="middle" font-size="12.5" fill="#8A7F72">听懂了往深拧，</text>
+  <text x="188" y="376" text-anchor="middle" font-size="12.5" fill="#8A7F72">没听懂换个比方</text>
+  <text x="188" y="416" text-anchor="middle" font-size="12" fill="#B9AFA0">讲三十遍，它同样耐心</text>
+
+  <!-- 卡2 出题考我 -->
+  <rect x="352" y="104" width="256" height="336" rx="20" fill="#FFFFFF" stroke="#F59E0B" stroke-width="3"/>
+  <g transform="translate(480,178)">
+    <rect x="-28" y="-36" width="56" height="72" rx="6" fill="#FDF3DC" stroke="#F59E0B" stroke-width="3"/>
+    <path d="M -16 -20 h 32 M -16 -6 h 24 M -16 8 h 30" stroke="#F2C48A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="24" cy="26" r="13" fill="#5FA968"/>
+    <path d="M 18 26 l 4 5 l 8 -10" stroke="#FFFFFF" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="480" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#B45309">② 出题考我</text>
+  <text x="480" y="298" text-anchor="middle" font-size="12.5" fill="#8A7F72">"出五道题，从易到难，</text>
+  <text x="480" y="320" text-anchor="middle" font-size="12.5" fill="#8A7F72">答一道判一道，错了讲原因"</text>
+  <text x="480" y="354" text-anchor="middle" font-size="12.5" fill="#8A7F72">进阶版：我讲你追问</text>
+  <text x="480" y="376" text-anchor="middle" font-size="12.5" fill="#8A7F72">（费曼学习法）</text>
+  <text x="480" y="416" text-anchor="middle" font-size="12" fill="#B9AFA0">卡壳处＝没真懂处</text>
+
+  <!-- 卡3 陪我练 -->
+  <rect x="644" y="104" width="256" height="336" rx="20" fill="#FFFFFF" stroke="#5FA968" stroke-width="3"/>
+  <g transform="translate(772,178)">
+    <rect x="-44" y="-30" width="52" height="34" rx="12" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5"/>
+    <path d="M -32 4 l -5 10 l 13 -6 z" fill="#EAF4EB" stroke="#5FA968" stroke-width="2.5" stroke-linejoin="round"/>
+    <rect x="-4" y="0" width="52" height="34" rx="12" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5"/>
+    <path d="M 36 34 l 5 10 l -13 -6 z" fill="#FFFFFF" stroke="#4A90D9" stroke-width="2.5" stroke-linejoin="round"/>
+  </g>
+  <text x="772" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#3E7D4B">③ 陪我练</text>
+  <text x="772" y="298" text-anchor="middle" font-size="12.5" fill="#8A7F72">外语开口 · 面试过招</text>
+  <text x="772" y="320" text-anchor="middle" font-size="12.5" fill="#8A7F72">难对话预演</text>
+  <text x="772" y="354" text-anchor="middle" font-size="12.5" fill="#8A7F72">"你扮演对方，别放水，</text>
+  <text x="772" y="376" text-anchor="middle" font-size="12.5" fill="#8A7F72">我答完你点评"</text>
+  <text x="772" y="416" text-anchor="middle" font-size="12" fill="#B9AFA0">不忙、不烦、不笑话你</text>
+
+  <text x="480" y="490" text-anchor="middle" font-size="13.5" fill="#9A8F80">自查一招：合上手机讲给别人听——讲得出是陪练，讲不出是代练</text>
+</svg>

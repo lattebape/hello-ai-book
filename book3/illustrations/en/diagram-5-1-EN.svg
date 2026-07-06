@@ -1,0 +1,45 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Three Assets That Hold Their Value</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 5-1 | The stronger the machines, the scarcer these get</text>
+
+  <!-- 卡1 判断力 -->
+  <rect x="60" y="104" width="256" height="310" rx="20" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(188,180)">
+    <circle r="32" fill="#FFFFFF" stroke="#4A90D9" stroke-width="4"/>
+    <path d="M 0 -18 L 8 6 L 0 2 L -8 6 Z" fill="#E8734A"/>
+    <circle r="3.5" fill="#3D3229"/>
+    <path d="M 0 -32 v -6 M 0 32 v 6 M -32 0 h -6 M 32 0 h 6" stroke="#4A90D9" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="188" y="256" text-anchor="middle" font-size="18" font-weight="700" fill="#2C6E9E">Judgment</text>
+  <text x="188" y="294" text-anchor="middle" font-size="12.5" fill="#8A7F72">Machines can draft ten plans;</text>
+  <text x="188" y="316" text-anchor="middle" font-size="12.5" fill="#8A7F72">picking the right one — and</text>
+  <text x="188" y="338" text-anchor="middle" font-size="12.5" fill="#8A7F72">owning it — is human work</text>
+  <text x="188" y="382" text-anchor="middle" font-size="12" fill="#B9AFA0">Grows more valuable with use</text>
+
+  <!-- 卡2 人情力 -->
+  <rect x="352" y="104" width="256" height="310" rx="20" fill="#FFFFFF" stroke="#E8734A" stroke-width="3"/>
+  <g transform="translate(480,180)">
+    <path d="M 0 22 q -34 -26 -19 -48 q 11 -14 19 -2 q 8 -12 19 2 q 15 22 -19 48 z" fill="#E8734A"/>
+    <path d="M -30 -28 l -7 -7 M 30 -28 l 7 -7" stroke="#F2C48A" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="480" y="256" text-anchor="middle" font-size="18" font-weight="700" fill="#B4472A">People skills</text>
+  <text x="480" y="294" text-anchor="middle" font-size="12.5" fill="#8A7F72">Soothing, persuading, leading,</text>
+  <text x="480" y="316" text-anchor="middle" font-size="12.5" fill="#8A7F72">being the one people trust</text>
+  <text x="480" y="338" text-anchor="middle" font-size="12.5" fill="#8A7F72">— trust only grows between people</text>
+  <text x="480" y="382" text-anchor="middle" font-size="12" fill="#B9AFA0">Machines can't mint trust</text>
+
+  <!-- 卡3 提问力 -->
+  <rect x="644" y="104" width="256" height="310" rx="20" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+  <g transform="translate(772,180)">
+    <circle r="32" fill="#F1ECF8"/>
+    <text y="16" text-anchor="middle" font-size="44" font-weight="800" fill="#8B6FC0">?</text>
+  </g>
+  <text x="772" y="256" text-anchor="middle" font-size="18" font-weight="700" fill="#8B6FC0">The craft of asking</text>
+  <text x="772" y="294" text-anchor="middle" font-size="12.5" fill="#8A7F72">Turning a fuzzy situation</text>
+  <text x="772" y="316" text-anchor="middle" font-size="12.5" fill="#8A7F72">into a clear question —</text>
+  <text x="772" y="338" text-anchor="middle" font-size="12.5" fill="#8A7F72">for machines, clients, yourself</text>
+  <text x="772" y="382" text-anchor="middle" font-size="12" fill="#B9AFA0">The core of working with machines</text>
+
+  <text x="480" y="464" text-anchor="middle" font-size="13.5" fill="#9A8F80">Four steps: pick a direction → AI-tutor the basics → practice on real work → teach someone</text>
+</svg>

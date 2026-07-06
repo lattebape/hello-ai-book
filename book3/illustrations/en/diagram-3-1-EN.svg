@@ -1,0 +1,51 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">The Three-Card Kit for Mom and Dad</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 3-1 | Three lines to tape to the back of the phone</text>
+
+  <!-- 卡1 语音 -->
+  <rect x="60" y="104" width="256" height="316" rx="20" fill="#FFFFFF" stroke="#8B6FC0" stroke-width="3"/>
+  <g transform="translate(188,180)">
+    <circle r="34" fill="#F1ECF8"/>
+    <rect x="-9" y="-20" width="18" height="26" rx="9" fill="#8B6FC0"/>
+    <path d="M -16 -2 a 16 16 0 0 0 32 0" stroke="#8B6FC0" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <line y1="14" y2="24" stroke="#8B6FC0" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="188" y="256" text-anchor="middle" font-size="17.5" font-weight="700" fill="#8B6FC0">1. Hold the mic</text>
+  <text x="188" y="284" text-anchor="middle" font-size="17.5" font-weight="700" fill="#8B6FC0">and just talk</text>
+  <text x="188" y="326" text-anchor="middle" font-size="12.5" fill="#8A7F72">No typing needed —</text>
+  <text x="188" y="348" text-anchor="middle" font-size="12.5" fill="#8A7F72">just ask out loud</text>
+  <text x="188" y="392" text-anchor="middle" font-size="12" fill="#B9AFA0">A hundred asks, zero annoyance</text>
+
+  <!-- 卡2 要钱先挂断 -->
+  <rect x="352" y="104" width="256" height="316" rx="20" fill="#FFFFFF" stroke="#E8734A" stroke-width="3.5"/>
+  <g transform="translate(480,180)">
+    <circle r="34" fill="#FDEDE4"/>
+    <g transform="rotate(135)">
+      <path d="M -16 -6 q 0 -12 12 -12 l 4 8 l -6 6 q 2 8 10 10 l 6 -6 l 8 4 q 0 12 -12 12 q -22 -2 -22 -22 z" fill="#E8734A"/>
+    </g>
+    <line x1="20" y1="-22" x2="34" y2="-36" stroke="#E8734A" stroke-width="4" stroke-linecap="round"/>
+    <line x1="34" y1="-22" x2="20" y2="-36" stroke="#E8734A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="480" y="256" text-anchor="middle" font-size="17.5" font-weight="700" fill="#B4472A">2. Any ask for money:</text>
+  <text x="480" y="284" text-anchor="middle" font-size="17.5" font-weight="700" fill="#B4472A">hang up, call family</text>
+  <text x="480" y="326" text-anchor="middle" font-size="12.5" fill="#8A7F72">However real the voice,</text>
+  <text x="480" y="348" text-anchor="middle" font-size="12.5" fill="#8A7F72">hang up first — then code word</text>
+  <text x="480" y="392" text-anchor="middle" font-size="12" fill="#B9AFA0">Real family won't mind</text>
+
+  <!-- 卡3 链接不点 -->
+  <rect x="644" y="104" width="256" height="316" rx="20" fill="#FFFFFF" stroke="#4A90D9" stroke-width="3"/>
+  <g transform="translate(772,180)">
+    <circle r="34" fill="#EAF3FB"/>
+    <rect x="-22" y="-12" width="44" height="24" rx="12" fill="none" stroke="#4A90D9" stroke-width="4"/>
+    <line x1="-8" y1="0" x2="8" y2="0" stroke="#4A90D9" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-26" y1="22" x2="26" y2="-22" stroke="#E8734A" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="772" y="256" text-anchor="middle" font-size="17.5" font-weight="700" fill="#2C6E9E">3. Unknown links:</text>
+  <text x="772" y="284" text-anchor="middle" font-size="17.5" font-weight="700" fill="#2C6E9E">don't tap — ask family</text>
+  <text x="772" y="326" text-anchor="middle" font-size="12.5" fill="#8A7F72">"Prizes," "subsidies," "notices"</text>
+  <text x="772" y="348" text-anchor="middle" font-size="12.5" fill="#8A7F72">— all of it can wait</text>
+  <text x="772" y="392" text-anchor="middle" font-size="12" fill="#B9AFA0">Unsure = don't tap</text>
+
+  <text x="480" y="466" text-anchor="middle" font-size="13.5" fill="#9A8F80">Card 1 opens the road; cards 2 and 3 guard it — teach all three and the chapter has paid for itself</text>
+</svg>

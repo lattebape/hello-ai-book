@@ -1,0 +1,49 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="900" height="520" fill="#FAF6EF"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">The Interface Map: Only Four Things</text>
+  <text x="450" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 1-1 | Ignore every other button for now</text>
+
+  <!-- 手机 -->
+  <g transform="translate(450,290)">
+    <rect x="-130" y="-190" width="260" height="380" rx="28" fill="#3D3229"/>
+    <rect x="-118" y="-178" width="236" height="356" rx="18" fill="#FFFFFF"/>
+    <!-- 顶栏与新对话 -->
+    <rect x="-118" y="-178" width="236" height="46" rx="18" fill="#F7EFE2"/>
+    <rect x="-118" y="-150" width="236" height="18" fill="#F7EFE2"/>
+    <circle cx="88" cy="-155" r="15" fill="#F59E0B"/>
+    <path d="M 88 -163 v 16 M 80 -155 h 16" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round"/>
+    <!-- 对话气泡 -->
+    <rect x="-104" y="-116" width="150" height="40" rx="14" fill="#EAF3FB"/>
+    <path d="M -96 -100 h 100 M -96 -88 h 70" stroke="#A9CBE8" stroke-width="5" stroke-linecap="round"/>
+    <rect x="-10" y="-64" width="124" height="34" rx="14" fill="#FDF3DC"/>
+    <path d="M 2 -47 h 88" stroke="#F2C48A" stroke-width="5" stroke-linecap="round"/>
+    <rect x="-104" y="-18" width="170" height="46" rx="14" fill="#EAF3FB"/>
+    <path d="M -96 -2 h 120 M -96 12 h 90" stroke="#A9CBE8" stroke-width="5" stroke-linecap="round"/>
+    <!-- 底部输入区 -->
+    <rect x="-104" y="112" width="150" height="42" rx="21" fill="#F7EFE2" stroke="#E0D6C6" stroke-width="2"/>
+    <circle cx="72" cy="133" r="19" fill="#5FA968"/>
+    <path d="M 64 133 l 16 0 M 74 126 l 7 7 l -7 7" stroke="#FFFFFF" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="-78" cy="133" r="13" fill="#8B6FC0"/>
+    <rect x="-82" y="128" width="8" height="12" rx="4" fill="#FFFFFF"/>
+    <path d="M -85 136 a 7 7 0 0 0 14 0" stroke="#FFFFFF" stroke-width="2.4" fill="none"/>
+  </g>
+
+  <!-- 标注 -->
+  <g font-size="16" font-weight="700">
+    <path d="M 216 158 L 322 138" stroke="#F59E0B" stroke-width="3" stroke-dasharray="6 6"/>
+    <text x="120" y="164" fill="#B45309">1. New chat</text>
+    <text x="60" y="188" font-size="12" font-weight="400" fill="#8A7F72">Tap it when topics change</text>
+
+    <path d="M 226 428 L 336 420" stroke="#8B6FC0" stroke-width="3" stroke-dasharray="6 6"/>
+    <text x="86" y="434" fill="#8B6FC0">3. Voice button</text>
+    <text x="66" y="458" font-size="12" font-weight="400" fill="#8A7F72">Hold to talk — no typing</text>
+
+    <path d="M 678 388 L 560 402" stroke="#4A90D9" stroke-width="3" stroke-dasharray="6 6"/>
+    <text x="686" y="392" fill="#2C6E9E">2. Input box</text>
+    <text x="686" y="416" font-size="12" font-weight="400" fill="#8A7F72">Type what you want to say</text>
+
+    <path d="M 664 458 L 540 432" stroke="#5FA968" stroke-width="3" stroke-dasharray="6 6"/>
+    <text x="672" y="466" fill="#3E7D4B">4. Send button</text>
+    <text x="672" y="490" font-size="12" font-weight="400" fill="#8A7F72">Tap when you're done</text>
+  </g>
+</svg>

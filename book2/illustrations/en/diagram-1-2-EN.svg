@@ -1,0 +1,52 @@
+<svg viewBox="0 0 960 500" xmlns="http://www.w3.org/2000/svg" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="960" height="500" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#3D3229">Three Zero-Risk Starter Questions</text>
+  <text x="480" y="72" text-anchor="middle" font-size="13.5" fill="#9A8F80">Figure 1-2 | All in the green zone — you can't lose</text>
+
+  <!-- 卡1：问知识 -->
+  <rect x="60" y="104" width="256" height="326" rx="20" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <g transform="translate(188,180)">
+    <circle r="34" fill="#F7C64B"/>
+    <circle cy="-4" r="15" fill="#FFF7E6"/>
+    <rect x="-7" y="12" width="14" height="10" rx="3" fill="#FFF7E6"/>
+    <path d="M 0 -34 v -14 M 26 -24 l 10 -10 M -26 -24 l -10 -10" stroke="#F2A65A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="188" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#B45309">Ask facts</text>
+  <rect x="84" y="288" width="208" height="106" rx="14" fill="#FDF7EC"/>
+  <text x="188" y="322" text-anchor="middle" font-size="12.5" fill="#8A7F72">"What's the difference</text>
+  <text x="188" y="346" text-anchor="middle" font-size="12.5" fill="#8A7F72">between stocks and funds?</text>
+  <text x="188" y="370" text-anchor="middle" font-size="12.5" fill="#8A7F72">Keep it simple."</text>
+
+  <!-- 卡2：求点子 -->
+  <rect x="352" y="104" width="256" height="326" rx="20" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <g transform="translate(480,180)" stroke="#4A90D9" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M -6 34 V 6"/>
+    <path d="M -6 6 Q -6 -16 -30 -26"/>
+    <path d="M -6 6 Q -6 -20 -6 -32"/>
+    <path d="M -6 6 Q -6 -16 20 -26"/>
+    <circle cx="-32" cy="-30" r="7" fill="#4A90D9" stroke="none"/>
+    <circle cx="-6" cy="-36" r="7" fill="#4A90D9" stroke="none"/>
+    <circle cx="22" cy="-30" r="7" fill="#4A90D9" stroke="none"/>
+  </g>
+  <text x="480" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#2C6E9E">Get ideas</text>
+  <rect x="376" y="288" width="208" height="106" rx="14" fill="#EAF3FB"/>
+  <text x="480" y="322" text-anchor="middle" font-size="12.5" fill="#8A7F72">"I have eggs, tomatoes,</text>
+  <text x="480" y="346" text-anchor="middle" font-size="12.5" fill="#8A7F72">and noodles — what's for</text>
+  <text x="480" y="370" text-anchor="middle" font-size="12.5" fill="#8A7F72">dinner? Three ideas."</text>
+
+  <!-- 卡3：请改写 -->
+  <rect x="644" y="104" width="256" height="326" rx="20" fill="#FFFFFF" stroke="#E0D6C6" stroke-width="3"/>
+  <g transform="translate(772,182) rotate(-34)">
+    <rect x="-8" y="-34" width="16" height="52" rx="5" fill="#5FA968"/>
+    <path d="M -8 18 L 0 38 L 8 18 Z" fill="#F2A65A"/>
+    <path d="M -3 33 L 0 38 L 3 33 Z" fill="#3D3229"/>
+    <rect x="-8" y="-42" width="16" height="10" rx="4" fill="#3E7D4B"/>
+  </g>
+  <text x="772" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#3E7D4B">Ask a rewrite</text>
+  <rect x="668" y="288" width="208" height="106" rx="14" fill="#EAF4EB"/>
+  <text x="772" y="322" text-anchor="middle" font-size="12.5" fill="#8A7F72">"Make this message</text>
+  <text x="772" y="346" text-anchor="middle" font-size="12.5" fill="#8A7F72">more polite:</text>
+  <text x="772" y="370" text-anchor="middle" font-size="12.5" fill="#8A7F72">'Can't make it this week.'"</text>
+
+  <text x="480" y="472" text-anchor="middle" font-size="13.5" fill="#9A8F80">Ideas, facts, rewrites — mistakes cost nothing, perfect for practice</text>
+</svg>
